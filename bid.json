@@ -1,0 +1,2883 @@
+[
+    {
+        "scoring": "\u5468\u6bc5\u4f73", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 678.99375, 
+                "min": 690.59, 
+                "max": 662.41, 
+                "average": 678.99375, 
+                "winner": 42, 
+                "median": 681.295, 
+                "nkt_price": 42, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0, 
+                "num_company": 8.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 36, 
+                "min": 0.0, 
+                "max": 0.0, 
+                "average": 7, 
+                "winner": 42, 
+                "median": 36, 
+                "nkt_price": 42, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0, 
+                "num_company": 0.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 36, 
+                "min": 0.0, 
+                "max": 0.0, 
+                "average": 7, 
+                "winner": 42, 
+                "median": 36, 
+                "nkt_price": 42, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0, 
+                "num_company": 0.0
+            }
+        ], 
+        "sr": "\u5e38\u5dde", 
+        "company": "\u5468\u6bc5\u4f73", 
+        "csc": "\u5e38\u5dde\u664b\u9675-\u5e38\u5dde\u5e02\u6b66\u8fdb\u4eba\u6c11\u533b\u966210kV\u7535\u529b\u7535\u7f06\u9879\u76ee", 
+        "project": "\u5e38\u5dde\u664b\u9675\u7535\u529b\u5b9e\u4e1a\u6709\u9650\u516c\u53f8", 
+        "work_num": "NCL-2014-T051", 
+        "date": "2014.4.19"
+    }, 
+    {
+        "scoring": "\u6700\u4f4e\u4ef7\u6cd5\uff1a\u7ecf\u8bc4\u5ba1\u7684\u6700\u4f4e\u4ef7\u6cd5\u662f\u6307\u8bc4\u6807\u59d4\u5458\u4f1a\u4f9d\u636e\u62db\u6807\u6587\u4ef6\u786e\u5b9a\u7684\u8bc4\u6807\u529e\u6cd5\uff0c\u5bf9\u5404\u6295\u6807\u4eba\u7684\u6280\u672f\u54cd\u5e94\u3001\u4f01\u4e1a\u7efc\u5408\u5b9e\u529b\u53ca\u5546\u52a1\u54cd\u5e94\u548c\u6295\u6807\u62a5\u4ef7\u7b49\u56e0\u7d20\u8fdb\u884c\u8bc4\u5ba1\u6bd4\u8f83\uff0c\u5728\u5546\u52a1\u3001\u6280\u672f\u5747\u6ee1\u8db3\u8981\u6c42\u7684\u524d\u63d0\u4e0b\uff0c\u6309\u7167\u62a5\u4ef7\u7531\u4f4e\u5230\u9ad8\u8fdb\u884c\u6392\u5e8f\uff0c\u62a5\u4ef7\u6700\u4f4e\u7684\u5382\u5bb6\u4e3a\u8bc4\u6807\u59d4\u5458\u4f1a\u63a8\u8350\u7684\u7b2c\u4e00\u4e2d\u6807\u5019\u9009\u4eba\u3002", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 7980000.0, 
+                "average_no_peak": 8896000.0, 
+                "min": 9812000.0, 
+                "max": 7980000.0, 
+                "average": 8896000.0, 
+                "winner": "\u5c71\u4e1c\u9c81\u80fd", 
+                "median": 8896000.0, 
+                "nkt_price": 9812000.0, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.1118, 
+                "num_company": 2.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u9752\u6d77\u9ec4\u6cb3\u4e0a\u6e38\u6c34\u7535\u5f00\u53d1\u6709\u9650\u8d23\u4efb\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u683c\u5c14\u6728\u4e09\u671f200MWp\u5e76\u7f51\u5149\u4f0f\u7535\u7ad9\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T14-609", 
+        "date": 41764.0
+    }, 
+    {
+        "scoring": "\u5f20\u829d\u857e", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 230.6032, 
+                "average_no_peak": 237.37842249999997, 
+                "min": 265.36998, 
+                "max": 230.6032, 
+                "average": 237.37842249999997, 
+                "winner": "\u4e0a\u6d77\u6c34\u822a", 
+                "median": 233.18435, 
+                "nkt_price": 237.349, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0, 
+                "num_company": 8.0
+            }, 
+            {
+                "winner_price": 521.1273, 
+                "average_no_peak": 530.0045124999999, 
+                "min": 559.1379, 
+                "max": 521.1273, 
+                "average": 530.0045124999999, 
+                "winner": "\u5b87\u76db", 
+                "median": 525.2184500000001, 
+                "nkt_price": 534.2255, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0, 
+                "num_company": 8.0
+            }, 
+            {
+                "winner_price": 624.75, 
+                "average_no_peak": 670.2158761428572, 
+                "min": 727.888764, 
+                "max": 624.75, 
+                "average": 670.2158761428572, 
+                "winner": "\u4e1c\u5cf0", 
+                "median": 656.88, 
+                "nkt_price": 717.57, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0, 
+                "num_company": 7.0
+            }
+        ], 
+        "sr": "\u4e39\u9633\u5e02\u4f9b\u7535\u516c\u53f8\u9644\u4e09\u697c\uff1a\u6c5f\u82cf\u7701\u4e39\u9633\u5e02\u5f00\u53d1\u533a\u7389\u6cc9\u8def218\u53f7", 
+        "company": "\u9648\u5b87\u5cf0", 
+        "csc": "\u4e39\u9633\u4e2d\u6cf0\u7535\u529b\u5de5\u7a0b\u6709\u9650\u516c\u53f8\u96c6\u4e2d\u89c4\u6a21\u62db\u6807\u91c7\u8d2d", 
+        "project": "\u4e39\u9633\u4e2d\u6cf0\u7535\u529b\u5de5\u7a0b\u6709\u9650\u516c\u53f8", 
+        "work_num": "NCL-T14-052", 
+        "date": 41747.0
+    }, 
+    {
+        "scoring": "\u91c7\u7528\u7efc\u5408\u8bc4\u4f30\u6cd5\uff0c\u5206\u6280\u672f\u8bc4\u5ba1\uff0c\u5546\u52a1\u8bc4\u5ba1\uff0c\u4ef7\u683c\u8bc4\u5ba1\u5f97\u5206\uff0c\u5404\u5206\u503c\u5206\u522b\u4e3a45\u5206\u300140\u5206\u300115\u5206\u3002", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 993.2577, 
+                "average_no_peak": 1016.7683978125, 
+                "min": 1142.23575, 
+                "max": 986.1045, 
+                "average": 1016.7683978125, 
+                "winner": "\u6c5f\u82cf\u6052\u901a\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 1009.36965, 
+                "nkt_price": 1142.23575, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.054, 
+                "num_company": 16.0
+            }, 
+            {
+                "winner_price": 382.953, 
+                "average_no_peak": 392.0138393749999, 
+                "min": 438.72675, 
+                "max": 376.608, 
+                "average": 392.0138393749999, 
+                "winner": "\u676d\u5dde\u534e\u65b0\u7535\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 390.835, 
+                "nkt_price": 438.72675, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.0503, 
+                "num_company": 16.0
+            }
+        ], 
+        "sr": "\u6bd5\u6d77\u6ee8", 
+        "company": "\u6210\u90fd\u4f9b\u7528\u7535\u5de5\u7a0b\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "\u5de8\u77f3\u96c6\u56e2\u6210\u90fd\u516c\u53f8110kV\u8f93\u53d8\u7535\u5de5\u7a0b110kV\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T14-059", 
+        "date": 41764.0
+    }, 
+    {
+        "scoring": "\u8bc4\u5206\u5206\u4e3a\u4ef7\u683c\u3001\u5546\u52a1\u4e0e\u6280\u672f\u4e09\u90e8\u5206\uff0c\u5176\u4e2d\u4ef7\u683c\u6743\u503c45%\uff1b\u5546\u52a1\u90e8\u5206\u6743\u503c10%\uff1b\u6280\u672f\u90e8\u5206\u8bc4\u5206\u4ee5100\u5206\u8ba1\uff0c\u6743\u91cd\u4e3a45\uff05\uff0c\u5206\u503c\u56db\u820d\u4e94\u5165\u4fdd\u7559\u5c0f\u6570\u70b9\u540e\u4e24\u4f4d\uff1b\n1\uff09 \u8bc4\u6807\u57fa\u51c6\u4ef7\u4e3a\u5404\u6709\u6548\u6295\u6807\u4ef7\u7684\u6700\u4f4e\u4ef7\u3002\n2\uff09 \u4ef7\u683c\u5f97\u5206=\uff08\u8bc4\u6807\u57fa\u51c6\u4ef7/\u6295\u6807\u62a5\u4ef7\uff09*\u4ef7\u683c\u6743\u503c*100\n3\uff09 \u8bc4\u59d4\u6280\u672f\u3001\u5546\u52a1\u90e8\u5206\u8bc4\u5206\u7ed3\u679c\u7edf\u8ba1\u65f6\uff0c\u5e94\u53bb\u6389\u4e00\u4e2a\u6700\u9ad8\u5206\u4e0e\u4e00\u4e2a\u6700\u4f4e\u5206\u540e\u518d\u884c\u7b97\u672f\u5e73\u5747\u8ba1\u7b97\u5404\u6709\u6548\u6295\u6807\u4eba\u7684\u6280\u672f\u3001\u5546\u52a1\u6700\u7ec8\u5f97\u5206\u3002\u5404\u5408\u683c\u6295\u6807\u4eba\u8bc4\u6807\u603b\u5206=\u6280\u672f\u5176\u5b83\u6761\u4ef6\u603b\u5206*45\uff05+\u5546\u52a1\u5176\u5b83\u6761\u4ef6\u603b\u5206+\u4ef7\u683c\u5f97\u5206\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 1199813.3333333333, 
+                "min": 1612600.0, 
+                "max": 954000.0, 
+                "average": 1199813.3333333333, 
+                "winner": 42, 
+                "median": 1234000.0, 
+                "nkt_price": 1255600.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.186, 
+                "num_company": 9.0
+            }
+        ], 
+        "sr": "\u9ec4\u627f\u4e1a", 
+        "company": "\u53a6\u95e8\u7535\u529b\u5de5\u7a0b\u96c6\u56e2\u6709\u9650\u516c\u53f8\u3001\u53a6\u95e8\u5e02\u96c6\u7f8e\u56fd\u6709\u8d44\u4ea7\u6295\u8d44\u6709\u9650\u516c\u53f8", 
+        "csc": "\u90b9\u8da3", 
+        "project": "\u704c\u53e3\u8bd5\u70b9\u5c0f\u57ce\u9547\u7f06\u53166\u4e2a\u5de5\u7a0b(220kV\u674e\u5b89\u7ebf#5-#7\u5355\u56de\u8def\u67b6\u7a7a\u7ebf\u7f06\u5316\u5de5\u7a0b)\u6240\u9700220kV\u7535\u7f06\u9644\u4ef6", 
+        "work_num": "NCL-T14-061", 
+        "date": 41768.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n\u4ef7\u683c\uff0c\u6280\u672f\u6743\u91cd\u8bbe\u7f6e\uff1a60%\uff0c40%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 718.1535, 
+                "average_no_peak": 716.4771, 
+                "min": 795.454, 
+                "max": 581.1397, 
+                "average": 716.4771, 
+                "winner": "\u65e0\u9521\u66d9\u5149", 
+                "median": 750.856, 
+                "nkt_price": 617.1472, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.154, 
+                "num_company": 12.0
+            }
+        ], 
+        "sr": " \u674e\u7ef4\u6ce2", 
+        "company": "\u5185\u8499\u53e4\u7535\u529b\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "2014\u5e74\u57fa\u5efa\u5de5\u7a0b110kV\u7535\u529b\u7535\u7f06", 
+        "work_num": "NCL-T14-063", 
+        "date": 41809.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n\u6280\u672f\uff0c\u5546\u52a1\uff0c\u4ef7\u683c\u6743\u91cd\u8bbe\u7f6e\uff1a50%\uff0c10%\uff0c40%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 1207.7748063888891, 
+                "min": 1301.9831, 
+                "max": 1161.9807, 
+                "average": 1207.7748063888891, 
+                "winner": 42, 
+                "median": 1204.521291, 
+                "nkt_price": 1301.9831, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.085, 
+                "num_company": 18.0
+            }
+        ], 
+        "sr": "\u6bd5\u6d77\u6ee8", 
+        "company": "\u56fd\u7f51\u56db\u5ddd\u7701\u7535\u529b\u516c\u53f8\u6210\u90fd\u4f9b\u7535\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "\u6210\u90fd\u6842\u901a110kV\u8f93\u53d8\u7535\u65b0\u5efa\u5de5\u7a0b", 
+        "work_num": "NCL-T14-065", 
+        "date": 41803.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n\u6280\u672f\uff0c\u5546\u52a1\uff0c\u4ef7\u683c\u6743\u91cd\u8bbe\u7f6e\uff1a50%\uff0c10%\uff0c40%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 1906.5136992, 
+                "min": 2036.7, 
+                "max": 1846.06785, 
+                "average": 1906.5136992, 
+                "winner": 42, 
+                "median": 1901.9099999999999, 
+                "nkt_price": 2035.35, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.2, 
+                "num_company": 20.0
+            }
+        ], 
+        "sr": "\u6bd5\u6d77\u6ee8", 
+        "company": "\u56fd\u7f51\u56db\u5ddd\u7701\u7535\u529b\u516c\u53f8\u6210\u90fd\u4f9b\u7535\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "\u6210\u90fd\u9f99\u6865110kV\u8f93\u53d8\u7535\u65b0\u5efa\u5de5\u7a0b\u9ec4\u6c34\u81f3\u9f99\u6865", 
+        "work_num": "NCL-T14-067", 
+        "date": 41803.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n\u6280\u672f\uff0c\u5546\u52a1\uff0c\u4ef7\u683c\u6743\u91cd\u8bbe\u7f6e\uff1a50%\uff0c10%\uff0c40%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 97.76410666666666, 
+                "min": 124.52, 
+                "max": 75.4274, 
+                "average": 97.76410666666666, 
+                "winner": 42, 
+                "median": 96.6404, 
+                "nkt_price": 115.948, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.376, 
+                "num_company": 15.0
+            }
+        ], 
+        "sr": "\u6bd5\u6d77\u6ee8", 
+        "company": "\u56fd\u7f51\u56db\u5ddd\u7701\u7535\u529b\u516c\u53f8\u6210\u90fd\u4f9b\u7535\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "\u6210\u90fd\u6842\u901a110kV\u8f93\u53d8\u7535\u65b0\u5efa\u5de5\u7a0b", 
+        "work_num": "NCL-T14-065", 
+        "date": 41816.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n\u6280\u672f\uff0c\u5546\u52a1\uff0c\u4ef7\u683c\u6743\u91cd\u8bbe\u7f6e\uff1a50%\uff0c10%\uff0c40%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 175.61762, 
+                "min": 235.1, 
+                "max": 132.3594, 
+                "average": 175.61762, 
+                "winner": 42, 
+                "median": 175.34, 
+                "nkt_price": 213.33, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.4, 
+                "num_company": 15.0
+            }
+        ], 
+        "sr": "\u6bd5\u6d77\u6ee8", 
+        "company": "\u56fd\u7f51\u56db\u5ddd\u7701\u7535\u529b\u516c\u53f8\u6210\u90fd\u4f9b\u7535\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "\u6210\u90fd\u9f99\u6865110kV\u8f93\u53d8\u7535\u65b0\u5efa\u5de5\u7a0b\u957f\u987a-\u677f\u6865\u7ebf\u8def\u7535\u7f06\u9644\u4ef6", 
+        "work_num": "NCL-T14-072", 
+        "date": 41816.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n\u6280\u672f\uff0c\u5546\u52a1\uff0c\u4ef7\u683c\u6743\u91cd\u8bbe\u7f6e\uff1a50%\uff0c10%\uff0c40%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 186.955144, 
+                "min": 244.1, 
+                "max": 146.93, 
+                "average": 186.955144, 
+                "winner": 42, 
+                "median": 184.555, 
+                "nkt_price": 224.41, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.404, 
+                "num_company": 15.0
+            }
+        ], 
+        "sr": "\u6bd5\u6d77\u6ee8", 
+        "company": "\u56fd\u7f51\u56db\u5ddd\u7701\u7535\u529b\u516c\u53f8\u6210\u90fd\u4f9b\u7535\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "\u6210\u90fd\u9f99\u6865110kV\u8f93\u53d8\u7535\u65b0\u5efa\u5de5\u7a0b\u9ec4\u6c34\u81f3\u9f99\u6865\u7535\u7f06\u9644\u4ef6", 
+        "work_num": "NCL-T14-073", 
+        "date": 41816.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n\u6280\u672f\uff0c\u4ef7\u683c\uff0c\u5546\u52a1\u6743\u91cd\u8bbe\u7f6e\uff1a40%\uff0c50%\uff0c10%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 83.88, 
+                "average_no_peak": 78.11333333333333, 
+                "min": 88.05, 
+                "max": 62.41, 
+                "average": 78.11333333333333, 
+                "winner": "nkt", 
+                "median": 83.88, 
+                "nkt_price": 83.88, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.492, 
+                "num_company": 3.0
+            }
+        ], 
+        "sr": "\u6bd5\u6d77\u6ee8", 
+        "company": "\u56fd\u6295\u94a6\u5dde\u53d1\u7535\u6709\u9650\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "\u5e7f\u897f\u94a6\u5dde\u7535\u5382\u4e8c\u671f\u6269\u5efa\u5de5\u7a0b(2\u00d71000MW)\u7b2c\u4e94\u6279\u8f85\u673a\u8bbe\u5907\u975e\u96c6\u4e2d\u62db\u6807220kV\u7535\u7f06\u9644\u4ef6", 
+        "work_num": "NCL-T14-077", 
+        "date": 41834.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n\u6280\u672f\uff0c\u4ef7\u683c\uff0c\u5546\u52a1\u6743\u91cd\u8bbe\u7f6e\uff1a40%\uff0c55%\uff0c5%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 1027.0026, 
+                "average_no_peak": 1017.8842888888887, 
+                "min": 1131.0, 
+                "max": 928.2, 
+                "average": 1017.8842888888887, 
+                "winner": "\u9752\u5c9b\u6c49\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 1006.2, 
+                "nkt_price": 1006.2, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.126, 
+                "num_company": 9.0
+            }, 
+            {
+                "winner_price": 1029.6, 
+                "average_no_peak": 1005.0219625, 
+                "min": 1080.0036, 
+                "max": 897.0, 
+                "average": 1005.0219625, 
+                "winner": "\u91cd\u5e86\u6cf0\u5c71\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 1027.68805, 
+                "nkt_price": 1043.64, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.165, 
+                "num_company": 8.0
+            }, 
+            {
+                "winner_price": 536.37, 
+                "average_no_peak": 545.0179620000001, 
+                "min": 660.33, 
+                "max": 453.2, 
+                "average": 545.0179620000001, 
+                "winner": "\u957f\u7f06\u7535\u5de5\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 537.6850099999999, 
+                "nkt_price": 660.33, 
+                "pack_num": "\u53053", 
+                "nkt_gm3": 0.426, 
+                "num_company": 10.0
+            }
+        ], 
+        "sr": "\u674e\u7ef4\u6ce2", 
+        "company": "\u5185\u8499\u53e4\u7535\u529b\uff08\u96c6\u56e2\uff09\u6709\u9650\u8d23\u4efb\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "2014\u5e74\u57fa\u5efa\u5de5\u7a0b\u547c\u4e1c\u5317\u90ca\u53d8220kV\u8f93\u53d8\u7535\u5de5\u7a0b", 
+        "work_num": "NCL-T14-078", 
+        "date": 41830.0
+    }, 
+    {
+        "scoring": "\u62a5\u4ef7\u5f97\u5206               75\u5206     \n\u4f01\u4e1a\u8d44\u8d28\u8d44\u4fe1        5\u5206\n\u6280\u672f\u5f97\u5206               10\u5206\n\u7efc\u5408\u5b9e\u529b               10\u5206", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 662.90625, 
+                "min": 716.1, 
+                "max": 623.35, 
+                "average": 662.90625, 
+                "winner": 42, 
+                "median": 646.15, 
+                "nkt_price": 716.1, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.095, 
+                "num_company": 8.0
+            }
+        ], 
+        "sr": "\u9ec4\u627f\u4e1a", 
+        "company": "\u6c5f\u82cf\u6d77\u7fd4\u7535\u6c14\u5b9e\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u90b9\u8da3", 
+        "project": "\u6d8c\u946b\u4e2d\u5fc3\u4f9b\u7535\u7ebf\u8def\u914d\u5957\u5de5\u7a0b", 
+        "work_num": "NCL-T14-079", 
+        "date": 41821.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n\u6280\u672f\uff0c\u4ef7\u683c\uff0c\u5546\u52a1\u6743\u91cd\u8bbe\u7f6e\uff1a40%\uff0c55%\uff0c5%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 77.76288, 
+                "average_no_peak": 78.930588, 
+                "min": 81.84, 
+                "max": 76.7808, 
+                "average": 78.930588, 
+                "winner": "\u4e2d\u5929\u79d1\u6280\u6d77\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 78.550776, 
+                "nkt_price": 81.84, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 78.930588, 
+                "num_company": 4.0
+            }
+        ], 
+        "sr": "\u674e\u7ef4\u6ce2", 
+        "company": "\u5185\u8499\u53e4\u7535\u529b\uff08\u96c6\u56e2\uff09\u6709\u9650\u8d23\u4efb\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "2014\u5e74\u57fa\u5efa\u5de5\u7a0b\uff08\u4e00\uff09\u7b2c\u4e09\u6279\u8bbe\u5907\u6750\u6599\u91c7\u8d2d\u62db\u6807110kV\u7535\u7f06", 
+        "work_num": "NCL-T14-080", 
+        "date": 41849.0
+    }, 
+    {
+        "scoring": "", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 1846.9799999999998, 
+                "min": 1879.4, 
+                "max": 1811.89, 
+                "average": 1846.9799999999998, 
+                "winner": 42, 
+                "median": 1854.0349999999999, 
+                "nkt_price": 1818.6, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.05, 
+                "num_company": 6.0
+            }
+        ], 
+        "sr": "\u5468\u6bc5\u4f73", 
+        "company": "\u5e38\u5dde\u664b\u9675\u7535\u529b\u5b9e\u4e1a\u6709\u9650\u516c\u53f8", 
+        "csc": "\u90b9\u8da3", 
+        "project": "\u5e38\u5dde\u664b\u9675\u7535\u529b\u5b9e\u4e1a\u6709\u9650\u516c\u53f82014\u5e74\u4e0b\u534a\u5e74\u6846\u67b6", 
+        "work_num": "NCL-T14-082", 
+        "date": "2014/715"
+    }, 
+    {
+        "scoring": "", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 970.1535714285716, 
+                "min": 1022.39, 
+                "max": 955.47, 
+                "average": 970.1535714285716, 
+                "winner": 42, 
+                "median": 964.94, 
+                "nkt_price": 964.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.05, 
+                "num_company": 14.0
+            }
+        ], 
+        "sr": "\u5468\u6bc5\u4f73", 
+        "company": "\u5e38\u5dde\u664b\u9675\u7535\u529b\u5b9e\u4e1a\u6709\u9650\u516c\u53f8", 
+        "csc": "\u90b9\u8da3", 
+        "project": "\u5e38\u5dde\u664b\u9675\u7535\u529b\u5b9e\u4e1a\u6709\u9650\u516c\u53f82014\u5e74\u4e0b\u534a\u5e74\u6846\u67b6", 
+        "work_num": "NCL-T14-082", 
+        "date": "2014/715"
+    }, 
+    {
+        "scoring": "\u672c\u6b21\u91c7\u8d2d\u57fa\u51c6\u4ef7\u7684\u786e\u5b9a\u91c7\u7528\u4e00\u6b21\u4e2d\u95f4\u4ef7\u6cd5\uff0c\u6240\u6709\u7ecf\u8bc4\u5ba1\u7684\u6709\u6548\u62a5\u4ef7\u7684\u5e73\u5747\u503c\u5373\u4e3a\u57fa\u51c6\u4ef7\u3002", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 24550408.143750004, 
+                "min": 25485222.39, 
+                "max": 22871252.0, 
+                "average": 24550408.143750004, 
+                "winner": 42, 
+                "median": 24832269.8, 
+                "nkt_price": 24760363.6, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.0, 
+                "num_company": 8.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 24628226.8, 
+                "min": 25567891.92, 
+                "max": 22947836.72, 
+                "average": 24628226.8, 
+                "winner": 42, 
+                "median": 24907147.439999998, 
+                "nkt_price": 24847286.88, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.0, 
+                "num_company": 8.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 23990981.065, 
+                "min": 24767661.48, 
+                "max": 22043621.96, 
+                "average": 23990981.065, 
+                "winner": 42, 
+                "median": 24285306.04, 
+                "nkt_price": 24712169.36, 
+                "pack_num": "\u53053", 
+                "nkt_gm3": 0.012, 
+                "num_company": 8.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 18853358.150000002, 
+                "min": 19573191.39, 
+                "max": 17568076.69, 
+                "average": 18853358.150000002, 
+                "winner": 42, 
+                "median": 19065856.380000003, 
+                "nkt_price": 19023296.76, 
+                "pack_num": "\u53054", 
+                "nkt_gm3": -0.0001, 
+                "num_company": 8.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 8449278.0, 
+                "min": 8820000.0, 
+                "max": 8284068.0, 
+                "average": 8449278.0, 
+                "winner": 42, 
+                "median": 8359680.0, 
+                "nkt_price": 8299200.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.265, 
+                "num_company": 6.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 9446613.0, 
+                "min": 9870000.0, 
+                "max": 9219078.0, 
+                "average": 9446613.0, 
+                "winner": 42, 
+                "median": 9354880.0, 
+                "nkt_price": 9287200.0, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.261, 
+                "num_company": 6.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 2771901.4285714286, 
+                "min": 3081000.0, 
+                "max": 2557500.0, 
+                "average": 2771901.4285714286, 
+                "winner": 42, 
+                "median": 2724900.0, 
+                "nkt_price": 2557500.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.261, 
+                "num_company": 7.0
+            }
+        ], 
+        "sr": "\u4ee3\u7406\u5362\u6881", 
+        "company": "\u676d\u5dde\u7535\u529b-\u6d59\u6c5f\u5927\u6709\u5b9e\u4e1a\u6709\u9650\u516c\u53f8", 
+        "csc": "\u6851\u76ca\u6c11", 
+        "project": "\u96c6\u4f53\u4f01\u4e1a2015\u5e74-2016\u5e74\u90e8\u5206\u8fc1\u6539\u5de5\u7a0b\u7269\u8d44\u91c7\u8d2d\u9879\u76ee", 
+        "work_num": "NCL-T14-088\u300189\u300190", 
+        "date": 42262.0
+    }, 
+    {
+        "scoring": "", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 2127264.285714286, 
+                "min": 2200000.0, 
+                "max": 2018000.0, 
+                "average": 2127264.285714286, 
+                "winner": 42, 
+                "median": 2158850.0, 
+                "nkt_price": 2158850.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.071, 
+                "num_company": 7.0
+            }
+        ], 
+        "sr": "\u9ec4\u627f\u4e1a", 
+        "company": "\u5c71\u4e1c\u9633\u7164\u6052\u901a\u5316\u5de5\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+        "csc": "\u90b9\u8da3", 
+        "project": "30\u4e07\u5428/\u5e74\u805a\u6c2f\u4e59\u70ef\u539f\u6599\u8def\u7ebf\u6539\u9020\u53ca20\u4e07\u5428/\u5e74\u53cc\u6c27\u6c34\u6cd5\u73af\u6c27\u4e19\u70f7\u6e05\u6d01\u751f\u4ea7\u9879\u76ee\u6240\u9700\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T14-088", 
+        "date": 41849.0
+    }, 
+    {
+        "scoring": "", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 280687.25, 
+                "min": 325669.0, 
+                "max": 184050.0, 
+                "average": 280687.25, 
+                "winner": 42, 
+                "median": 306515.0, 
+                "nkt_price": 301620.0, 
+                "pack_num": "\u53056", 
+                "nkt_gm3": 0.071, 
+                "num_company": 4.0
+            }
+        ], 
+        "sr": "\u4faf\u98de", 
+        "company": "\u5185\u8499\u53e4\u7535\u529b(\u96c6\u56e2)\u6709\u9650\u8d23\u4efb\u516c\u53f8\u547c\u548c\u6d69\u7279\u4f9b\u7535\u5c40", 
+        "csc": "\u738b\u5fe0\u6797", 
+        "project": "\u547c\u548c\u6d69\u7279\u5e02\u5149\u6e90\u7535\u529b\u5b89\u88c5\u6709\u9650\u8d23\u4efb\u516c\u53f8\u79d1\u6797\u57c3\u5c14110KV\u53d8\u7535\u7ad9\u53ca\u7ebf\u8def\u5de5\u7a0b\u6240\u9700\u8bbe\u5907\u6750\u6599\u91c7\u8d2d\u62db\u6807", 
+        "work_num": "NCL-T14-090", 
+        "date": 41852.0
+    }, 
+    {
+        "scoring": "", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 2050020.0, 
+                "min": 2100000.0, 
+                "max": 1969800.0, 
+                "average": 2050020.0, 
+                "winner": 42, 
+                "median": 2080260.0, 
+                "nkt_price": 1969800.0, 
+                "pack_num": "\u530516", 
+                "nkt_gm3": 0.071, 
+                "num_company": 3.0
+            }
+        ], 
+        "sr": "\u4faf\u98de", 
+        "company": "\u5185\u8499\u53e4\u7535\u529b(\u96c6\u56e2)\u6709\u9650\u8d23\u4efb\u516c\u53f8\u547c\u548c\u6d69\u7279\u4f9b\u7535\u5c40", 
+        "csc": "\u738b\u5fe0\u6797", 
+        "project": "\u547c\u548c\u6d69\u7279\u5e02\u5149\u6e90\u7535\u529b\u5b89\u88c5\u6709\u9650\u8d23\u4efb\u516c\u53f8\u79d1\u6797\u57c3\u5c14110KV\u53d8\u7535\u7ad9\u53ca\u7ebf\u8def\u5de5\u7a0b\u6240\u9700\u8bbe\u5907\u6750\u6599\u91c7\u8d2d\u62db\u6807", 
+        "work_num": "NCL-T14-091", 
+        "date": 41852.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 25.3048, 
+                "average_no_peak": 29.50175, 
+                "min": 35.09, 
+                "max": 25.3048, 
+                "average": 29.50175, 
+                "winner": "\u6210\u90fd\u94ed\u6d3e\u5546\u8d38\u6709\u9650\u516c\u53f8\uff08\u4ee3\u74063M)", 
+                "median": 28.8061, 
+                "nkt_price": 32.2998, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.085, 
+                "num_company": 4.0
+            }
+        ], 
+        "sr": "\u5218\u6d77\u65b0", 
+        "company": "\u897f\u5317\u7535\u529b\u5de5\u7a0b\u627f\u5305\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "\u795e\u534e\u65b0\u758668\u4e07\u5428/\u5e74\u7164\u57fa\u65b0\u6750\u6599\u9879\u76ee\u52a8\u529b\u88c5\u7f6e6kV\u51b7\u7f29\u7535\u529b\u7535\u7f06\u9644\u4ef6", 
+        "work_num": "NCL-T14-094", 
+        "date": 41864.0
+    }, 
+    {
+        "scoring": "\u6700\u4f4e\u8bc4\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 27631668.6, 
+                "average_no_peak": 30003697.78333333, 
+                "min": 32246845.2, 
+                "max": 27631668.6, 
+                "average": 30003697.78333333, 
+                "winner": "\u5b9d\u80dc\u79d1\u6280\u521b\u65b0\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 29938536.9, 
+                "nkt_price": 29189550.0, 
+                "pack_num": "\u6807\u6bb51", 
+                "nkt_gm3": 0.026, 
+                "num_company": 12.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 4406982.5, 
+                "min": 5645530.0, 
+                "max": 4122600.0, 
+                "average": 4406982.5, 
+                "winner": 42, 
+                "median": 4292102.5, 
+                "nkt_price": 4285000.0, 
+                "pack_num": "\u6807\u6bb52", 
+                "nkt_gm3": 0.03, 
+                "num_company": 10.0
+            }, 
+            {
+                "winner_price": 3947717.0, 
+                "average_no_peak": 4068773.4, 
+                "min": 4236925.0, 
+                "max": 3916581.0, 
+                "average": 4068773.4, 
+                "winner": "\u6c5f\u82cf\u4e0a\u4e0a\u7535\u7f06\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+                "median": 4072068.5, 
+                "nkt_price": 4066500.0, 
+                "pack_num": "\u6807\u6bb53", 
+                "nkt_gm3": 0.029, 
+                "num_company": 10.0
+            }, 
+            {
+                "winner_price": 2217808.0, 
+                "average_no_peak": 2329324.625, 
+                "min": 2735293.0, 
+                "max": 2217808.0, 
+                "average": 2329324.625, 
+                "winner": "\u4e2d\u5229\u79d1\u6280\u96c6\u56e2\uff08\u8fbd\u5b81\uff09\u6709\u9650\u516c\u53f8", 
+                "median": 2272004.0, 
+                "nkt_price": 2239200.0, 
+                "pack_num": "\u6807\u6bb54", 
+                "nkt_gm3": 0.028, 
+                "num_company": 8.0
+            }, 
+            {
+                "winner_price": 4474563.0, 
+                "average_no_peak": 4645532.7, 
+                "min": 4812979.0, 
+                "max": 4474563.0, 
+                "average": 4645532.7, 
+                "winner": "\u5b9d\u80dc\u79d1\u6280\u521b\u65b0\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 4621694.0, 
+                "nkt_price": 4580900.0, 
+                "pack_num": "\u6807\u6bb55", 
+                "nkt_gm3": 0.028, 
+                "num_company": 10.0
+            }, 
+            {
+                "winner_price": 5122867.0, 
+                "average_no_peak": 5295186.9, 
+                "min": 5517738.0, 
+                "max": 5122867.0, 
+                "average": 5295186.9, 
+                "winner": "\u6c5f\u82cf\u4e0a\u4e0a\u7535\u7f06\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+                "median": 5269036.5, 
+                "nkt_price": 5193400.0, 
+                "pack_num": "\u6807\u6bb56", 
+                "nkt_gm3": 0.028, 
+                "num_company": 10.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u7535\u529b\u6295\u8d44\u96c6\u56e2\u516c\u53f8\u7269\u8d44\u88c5\u5907\u5206\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u4e2d\u56fd\u7535\u529b\u6295\u8d44\u96c6\u56e2\u516c\u53f8\u4e8c\u3007\u4e00\u56db\u5e74\u5ea6\u7b2c\u516d\u5341\u56db\u6279\u96c6\u4e2d\u62db\u6807", 
+        "work_num": "NCL-T14-108", 
+        "date": 41909.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8ba1\u5206\u6cd5\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 0.046, 
+                "average_no_peak": 0.04723627272727273, 
+                "min": 0.050991, 
+                "max": 0.0447, 
+                "average": 0.04723627272727273, 
+                "winner": "\u4ea8\u901a", 
+                "median": 0.047531, 
+                "nkt_price": 0.049, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.0, 
+                "num_company": 11.0
+            }
+        ], 
+        "sr": "\u5468\u5efa\u56fd", 
+        "company": "\u626c\u5dde\u5e7f\u6e90\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u738b\u83ba", 
+        "project": "110kV\u848b\u5357\u3001\u848b\u5a01\u3001\u848b\u5f00\u7535\u7f06\u4e0b\u5730\u5de5\u7a0b", 
+        "work_num": "NCL-T14-113", 
+        "date": 41920.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 527.7804, 
+                "average_no_peak": 535.5621682666667, 
+                "min": 565.94946, 
+                "max": 515.2838, 
+                "average": 535.5621682666667, 
+                "winner": "\u5c71\u4e1c\u6cf0\u5f00\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 534.518426, 
+                "nkt_price": 565.94946, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.097, 
+                "num_company": 15.0
+            }
+        ], 
+        "sr": "\u674e\u7ef4\u6ce2", 
+        "company": "\u5185\u8499\u53e4\u7535\u529b(\u96c6\u56e2\uff09\u6709\u9650\u8d23\u4efb\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "\u5185\u8499\u53e4\u7535\u529b2014\u5e74\u57fa\u5efa\u5de5\u7a0b110kV\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T14-114", 
+        "date": 41932.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 595783.3571428572, 
+                "min": 690687.0, 
+                "max": 461440.0, 
+                "average": 595783.3571428572, 
+                "winner": 42, 
+                "median": 612537.5, 
+                "nkt_price": 629380.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.209, 
+                "num_company": 14.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 608990.6, 
+                "min": 770000.0, 
+                "max": 482440.0, 
+                "average": 608990.6, 
+                "winner": 42, 
+                "median": 612300.0, 
+                "nkt_price": 629380.0, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.209, 
+                "num_company": 15.0
+            }
+        ], 
+        "sr": "\u5f90\u653f", 
+        "company": " \u5357\u660c\u901a\u6e90\u5b9e\u4e1a\u603b\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": " \u6c5f\u897f\u7701\u5357\u660c\u5e02\u8f68\u9053\u4ea4\u901a1\u53f7\u7ebf\u5f6d\u5bb6\u6865110kV\u7ebf\u8def\u91c7\u8d2d\u7535\u7f06\u9644\u4ef6\u9879\u76ee\uff0801\u300102\u5305\u7535\u7f06\u9644\u4ef6\uff09", 
+        "work_num": "NCL-T14-116-1\u30012", 
+        "date": 41939.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 3324690.0, 
+                "average_no_peak": 3357933.6, 
+                "min": 3576069.0, 
+                "max": 3149017.0, 
+                "average": 3357933.6, 
+                "winner": "NKT", 
+                "median": 3346097.5, 
+                "nkt_price": 3324690.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.023, 
+                "num_company": 10.0
+            }, 
+            {
+                "winner_price": 3381453.0, 
+                "average_no_peak": 3372821.3, 
+                "min": 3576069.0, 
+                "max": 3149017.0, 
+                "average": 3372821.3, 
+                "winner": "\u65e0\u9521\u6c5f\u5357", 
+                "median": 3373344.0, 
+                "nkt_price": 3324690.0, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.023, 
+                "num_company": 10.0
+            }
+        ], 
+        "sr": "\u5f90\u653f", 
+        "company": " \u5357\u660c\u901a\u6e90\u5b9e\u4e1a\u603b\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5357\u660c\u5e02\u8f68\u9053\u4ea4\u901a1\u53f7\u7ebf\u5f6d\u5bb6\u6865110kV\u7ebf\u8def\u91c7\u8d2d\u9879\u76ee\u7535\u7f0601\u300102\u5305", 
+        "work_num": "NCL-T14-116-3\u30014", 
+        "date": 41939.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 3133000.0, 
+                "average_no_peak": 3225801.6666666665, 
+                "min": 3750000.0, 
+                "max": 3030500.0, 
+                "average": 3225801.6666666665, 
+                "winner": "NKT", 
+                "median": 3120000.0, 
+                "nkt_price": 3133000.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.022, 
+                "num_company": 9.0
+            }
+        ], 
+        "sr": "\u5f90\u653f", 
+        "company": " \u5357\u660c\u901a\u6e90\u5b9e\u4e1a\u603b\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5357\u660c\u901a\u6e90\u5b9e\u4e1a\u603b\u516c\u53f8\u91c7\u8d2d\u6cbf\u6c5f\u4e2d\u5927\u9053\u3001\u6cbf\u6c5f\u5357\u8def110kV\u7535\u529b\u7ebf\u53ca\u6cbf\u6c5f\u4e2d\u5357\u5927\u905310kV\u7535\u529b\u7ebf\u4e0b\u5730\u6539\u9020\u5de5\u7a0b\u9879\u76ee01\u5305\uff08110kv\u7535\u7f06\uff09", 
+        "work_num": "NCL-T14-116-5", 
+        "date": 41939.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 646363.5384615385, 
+                "min": 757600.0, 
+                "max": 519200.0, 
+                "average": 646363.5384615385, 
+                "winner": 42, 
+                "median": 666368.0, 
+                "nkt_price": 689600.0, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.238, 
+                "num_company": 13.0
+            }
+        ], 
+        "sr": "\u5f90\u653f", 
+        "company": " \u5357\u660c\u901a\u6e90\u5b9e\u4e1a\u603b\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": " \u6cbf\u6c5f\u4e2d\u5927\u9053\u3001\u6cbf\u6c5f\u5357\u8def110kV\u7535\u529b\u7ebf\u53ca\u6cbf\u6c5f\u4e2d\u5357\u5927\u905310kV\u7535\u529b\u7ebf\u4e0b\u5730\u6539\u9020\u5de5\u7a0b\u9879\u76ee\u9879\u76ee\uff0802\u5305110kv\u7535\u7f06\u9644\u4ef6\uff09", 
+        "work_num": "NCL-T14-116-6", 
+        "date": 41939.0
+    }, 
+    {
+        "scoring": "\u7ecf\u8bc4\u6807\u7684\u6700\u4f4e\u62a5\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 827.5491832666667, 
+                "min": 907.45, 
+                "max": 765.9145, 
+                "average": 827.5491832666667, 
+                "winner": 42, 
+                "median": 823.2588, 
+                "nkt_price": 907.45, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.065, 
+                "num_company": 15.0
+            }
+        ], 
+        "sr": "\u9648\u6b23", 
+        "company": "\u5357\u5145\u6052\u901a\u7535\u529b\u6709\u9650\u516c\u53f8", 
+        "csc": "\u6c88\u8587", 
+        "project": "\u534f\u8bae\u5e93\u5b58GC-14-9-19(\u4e00)\u9ad8\u538b\u7535\u529b\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T14-118-1", 
+        "date": 41948.0
+    }, 
+    {
+        "scoring": "\u7ecf\u8bc4\u6807\u7684\u6700\u4f4e\u62a5\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 859.8431545333333, 
+                "min": 933.4, 
+                "max": 786.786, 
+                "average": 859.8431545333333, 
+                "winner": 42, 
+                "median": 855.5625, 
+                "nkt_price": 933.4, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.064, 
+                "num_company": 15.0
+            }
+        ], 
+        "sr": "\u9648\u6b23", 
+        "company": "\u5357\u5145\u6052\u901a\u7535\u529b\u6709\u9650\u516c\u53f8", 
+        "csc": "\u6c88\u8587", 
+        "project": "\u534f\u8bae\u5e93\u5b58GC-14-9-19(\u4e8c)\u9ad8\u538b\u7535\u529b\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T14-118-2", 
+        "date": 41948.0
+    }, 
+    {
+        "scoring": "\u7ecf\u8bc4\u6807\u7684\u6700\u4f4e\u62a5\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 660.567573, 
+                "min": 718.0, 
+                "max": 605.22, 
+                "average": 660.567573, 
+                "winner": 42, 
+                "median": 657.2, 
+                "nkt_price": 718.0, 
+                "pack_num": "\u53053", 
+                "nkt_gm3": 0.063, 
+                "num_company": 16.0
+            }
+        ], 
+        "sr": "\u9648\u6b23", 
+        "company": "\u5357\u5145\u6052\u901a\u7535\u529b\u6709\u9650\u516c\u53f8", 
+        "csc": "\u6c88\u8587", 
+        "project": "\u534f\u8bae\u5e93\u5b58GC-14-9-19(\u4e09)\u9ad8\u538b\u7535\u529b\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T14-118-3", 
+        "date": 41948.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\uff0c\u5e73\u5747\u4ef7\u4e0b\u6d6e1\u52305\u4e2a\u70b9\u4f5c\u4e3a\u57fa\u51c6\u4ef7\uff0c\u57fa\u51c6\u4ef7\u6ee1\u5206\uff0c\u9ad8\u4e8e\u3001\u4f4e\u4e8e\u57fa\u51c6\u4ef7\u90fd\u6263\u5206\u3002", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 428.2166666666666, 
+                "min": 538.34, 
+                "max": 385.38, 
+                "average": 428.2166666666666, 
+                "winner": 42, 
+                "median": 421.03, 
+                "nkt_price": 423.89, 
+                "pack_num": "\u6807\u6bb565-2", 
+                "nkt_gm3": 0.226, 
+                "num_company": 15.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 430.65714285714284, 
+                "min": 538.34, 
+                "max": 385.38, 
+                "average": 430.65714285714284, 
+                "winner": 42, 
+                "median": 424.105, 
+                "nkt_price": 440.81, 
+                "pack_num": "\u6807\u6bb565-3", 
+                "nkt_gm3": 0.233, 
+                "num_company": 14.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 763.184740909091, 
+                "min": 924.02, 
+                "max": 627.18, 
+                "average": 763.184740909091, 
+                "winner": 42, 
+                "median": 744.6025, 
+                "nkt_price": 736.1186, 
+                "pack_num": "\u6807\u6bb565-8", 
+                "nkt_gm3": 0.181, 
+                "num_company": 22.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 329.0916590909091, 
+                "min": 416.07, 
+                "max": 263.7, 
+                "average": 329.0916590909091, 
+                "winner": 42, 
+                "median": 317.48, 
+                "nkt_price": 291.15, 
+                "pack_num": "\u6807\u6bb565-9", 
+                "nkt_gm3": 0.144, 
+                "num_company": 22.0
+            }
+        ], 
+        "sr": "\u674e\u7ef4\u6ce2", 
+        "company": "\u5185\u8499\u53e4\u7535\u529b\u6709\u9650\u516c\u53f8", 
+        "csc": "\u6851\u76ca\u6c11", 
+        "project": "\u547c\u548c\u6d69\u7279\u4e1c\u4e8c\u73af\u7535\u7f06\u3001\u9644\u4ef6", 
+        "work_num": "NCL-T14-123\u3001124", 
+        "date": 41956.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n\u6280\u672f\uff0c\u5546\u52a1\uff0c\u4ef7\u683c\u6743\u91cd\u8bbe\u7f6e\uff1a40%\uff0c10%\uff0c50%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 446.5125, 
+                "min": 467.1, 
+                "max": 425.2, 
+                "average": 446.5125, 
+                "winner": 42, 
+                "median": 444.6, 
+                "nkt_price": 467.1, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.086, 
+                "num_company": 8.0
+            }
+        ], 
+        "sr": "\u9648\u6b23", 
+        "company": "\u6500\u679d\u82b1\u7f51\u6e90\u7535\u529b\u5efa\u8bbe\u5de5\u7a0b\u516c\u53f8", 
+        "csc": "\u6c88\u8587", 
+        "project": "110kV\u8001\u56ed\u7ebf7#-10#\u3001110kV\u65bd\u56ed\u7ebf32#-35#\u7ebf\u8def\u642c\u8fc1\u53ca110kV\u94f6\u6797\u7ebf25#-28#\u300110kV\u56ed\u5b66\u7ebf\u7ebf\u8def\u642c\u8fc1\u5de5\u7a0b\u7535\u529b\u7535\u7f06\n\n", 
+        "work_num": "NCL-T14-125", 
+        "date": 41955.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 2756.811109, 
+                "average_no_peak": 2901.6137828703704, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2904.7556332678573, 
+                "winner": "\u6c5f\u82cf\u4e2d\u7164\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 2880.890097, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.067, 
+                "num_company": 56.0
+            }, 
+            {
+                "winner_price": 2822.451159, 
+                "average_no_peak": 2906.9243651666657, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2909.8765519107137, 
+                "winner": "\u5b81\u6ce2\u4e1c\u65b9\u7535\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 2883.110794, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.067, 
+                "num_company": 56.0
+            }, 
+            {
+                "winner_price": 2835.409209, 
+                "average_no_peak": 2905.5326076666665, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2908.704418471698, 
+                "winner": "\u65e0\u9521\u5e02\u65b0\u9633\u5149\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 2883.45638, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u53053", 
+                "nkt_gm3": 0.067, 
+                "num_company": 53.0
+            }, 
+            {
+                "winner_price": 2839.78293, 
+                "average_no_peak": 2908.051951509804, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2911.1286927358487, 
+                "winner": "\u5c71\u4e1c\u6cf0\u5f00\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 2883.45638, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u53054", 
+                "nkt_gm3": 0.067, 
+                "num_company": 53.0
+            }, 
+            {
+                "winner_price": 2789.283211, 
+                "average_no_peak": 2908.33747336, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2911.4624010769226, 
+                "winner": "\u65e0\u9521\u6c5f\u5357\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 2883.110794, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u53055", 
+                "nkt_gm3": 0.067, 
+                "num_company": 52.0
+            }, 
+            {
+                "winner_price": 2877.668383, 
+                "average_no_peak": 2909.774978081632, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2912.9048061568624, 
+                "winner": "\u8fdc\u4e1c\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 2883.45638, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u53056", 
+                "nkt_gm3": 0.067, 
+                "num_company": 51.0
+            }, 
+            {
+                "winner_price": 2898.627611, 
+                "average_no_peak": 2912.5400475625006, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2915.62186942, 
+                "winner": "\u6d59\u6c5f\u4e07\u9a6c\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 2885.336185, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u53057", 
+                "nkt_gm3": 0.067, 
+                "num_company": 50.0
+            }, 
+            {
+                "winner_price": 2825.037157, 
+                "average_no_peak": 2917.467271770833, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2920.35200466, 
+                "winner": "\u6c5f\u82cf\u4e2d\u8fb0\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 2890.0279689999998, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u53058", 
+                "nkt_gm3": 0.067, 
+                "num_company": 50.0
+            }, 
+            {
+                "winner_price": 2807.761976, 
+                "average_no_peak": 2908.5755687142846, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2911.7524324509805, 
+                "winner": "\u7279\u53d8\u7535\u5de5(\u5fb7\u9633)\u7535\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 2883.45638, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u53059", 
+                "nkt_gm3": 0.067, 
+                "num_company": 51.0
+            }, 
+            {
+                "winner_price": 2861.524347, 
+                "average_no_peak": 2916.0062307142853, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2918.8916959411763, 
+                "winner": "\u5b9d\u80dc\u79d1\u6280\u521b\u65b0\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 2892.839948, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u530510", 
+                "nkt_gm3": 0.067, 
+                "num_company": 51.0
+            }, 
+            {
+                "winner_price": 2887.21599, 
+                "average_no_peak": 2915.0039499166664, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2915.0039499166664, 
+                "winner": "\u6c5f\u82cf\u4e0a\u4e0a\u7535\u7f06\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+                "median": 2891.05863, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u530511", 
+                "nkt_gm3": 0.067, 
+                "num_company": 48.0
+            }, 
+            {
+                "winner_price": 2807.753842, 
+                "average_no_peak": 2919.9934153877543, 
+                "min": 3222.360079, 
+                "max": 2756.811109, 
+                "average": 2919.9934153877543, 
+                "winner": "\u798f\u5efa\u5357\u5e73\u592a\u9633\u7535\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 2903.798276, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u530512", 
+                "nkt_gm3": 0.067, 
+                "num_company": 49.0
+            }, 
+            {
+                "winner_price": 2832.284108, 
+                "average_no_peak": 2909.7421476734685, 
+                "min": 3222.360079, 
+                "max": 2741.333399, 
+                "average": 2909.7421476734685, 
+                "winner": "\u5174\u4e50\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+                "median": 2887.21599, 
+                "nkt_price": 2960.116196, 
+                "pack_num": "\u530513", 
+                "nkt_gm3": 0.067, 
+                "num_company": 49.0
+            }
+        ], 
+        "sr": "\u9648\u5b87\u5cf0", 
+        "company": "\u56fd\u5bb6\u7535\u7f51\u516c\u53f8\u91cd\u5e86\u5e02\u7535\u529b\u516c\u53f8", 
+        "csc": "\u5f20\u829d\u857e", 
+        "project": "\u56fd\u5bb6\u7535\u7f51\u516c\u53f8\u91cd\u5e86\u7535\u7f512014\u5e74\u7b2c\u4e09\u6279\u914d\u7f51\u7ebf\u8def\u6750\u6599\u96c6\u4e2d\u62db\u6807", 
+        "work_num": "NCL-T14-127", 
+        "date": 41960.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 445668.3, 
+                "average_no_peak": 478214.10000000003, 
+                "min": 526680.0, 
+                "max": 445668.3, 
+                "average": 478214.10000000003, 
+                "winner": "\u9752\u5c9b\u6c49\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 462294.0, 
+                "nkt_price": 526680.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.087, 
+                "num_company": 3.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u5927\u5510\u96c6\u56e2\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5927\u5510\u9ec4\u5c9b\u53d1\u7535\u516c\u53f8220kv\u914d\u7535\u88c5\u7f6e\u53ca\u914d\u5957\u5de5\u7a0b220kV \u4ea4\u8054\u7535\u7f06", 
+        "work_num": "NCL-T14-128", 
+        "date": 41957.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 6271000.0, 
+                "average_no_peak": 7443471.833333333, 
+                "min": 14122500.0, 
+                "max": 2220400.0, 
+                "average": 7443471.833333333, 
+                "winner": "\u67cf\u5170\u7535\u5de5(\u5e7f\u5dde)\u6709\u9650\u516c\u53f8", 
+                "median": 7052915.5, 
+                "nkt_price": 7941100.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.087, 
+                "num_company": 6.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u5927\u5510\u96c6\u56e2\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5927\u5510\u9ec4\u5c9b\u53d1\u7535\u516c\u53f8220kv\u914d\u7535\u88c5\u7f6e\u53ca\u914d\u5957\u5de5\u7a0b220kV \u7535\u7f06\u9644\u4ef6", 
+        "work_num": "NCL-T14-129", 
+        "date": 41957.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 8068258.550000001, 
+                "average_no_peak": 8249473.531666666, 
+                "min": 8541297.6, 
+                "max": 7929240.0, 
+                "average": 8249473.531666666, 
+                "winner": "\u6c5f\u82cf\u4ea8\u901a\u7535\u529b\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 8302746.88, 
+                "nkt_price": 7929240.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.053, 
+                "num_company": 6.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u5927\u5510\u96c6\u56e2\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5927\u5510\u9ec4\u5c9b\u53d1\u7535\u516c\u53f8220kv\u914d\u7535\u88c5\u7f6e\u53ca\u914d\u5957\u5de5\u7a0b\uff08\u53051\uff09 6-35kV\u7535\u529b\u7535\u7f06", 
+        "work_num": "NCL-T14-130", 
+        "date": 41957.0
+    }, 
+    {
+        "scoring": "\u6700\u4f4e\u8bc4\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 7364369.26, 
+                "average_no_peak": 7846337.311111111, 
+                "min": 8398583.78, 
+                "max": 7364369.26, 
+                "average": 7846337.311111111, 
+                "winner": "\u5b89\u5fbd\u65b0\u4e9a\u7279\u7535\u7f06", 
+                "median": 7832422.24, 
+                "nkt_price": 8110249.0, 
+                "pack_num": "\u6807\u6bb51", 
+                "nkt_gm3": 0.0404, 
+                "num_company": 9.0
+            }, 
+            {
+                "winner_price": 6894240.6, 
+                "average_no_peak": 8540191.85, 
+                "min": 12019455.4, 
+                "max": 6894240.6, 
+                "average": 8540191.85, 
+                "winner": "\u5b81\u6ce2\u4e1c\u65b9\u7535\u6c14", 
+                "median": 7880241.1, 
+                "nkt_price": 7821440.0, 
+                "pack_num": "\u6807\u6bb53", 
+                "nkt_gm3": 0.047, 
+                "num_company": 7.0
+            }, 
+            {
+                "winner_price": 1891134.0, 
+                "average_no_peak": 2010943.825, 
+                "min": 2126031.5, 
+                "max": 1891134.0, 
+                "average": 2010943.825, 
+                "winner": "\u4e2d\u5229\u79d1\u6280\u8fbd\u5b81\u7535\u7f06", 
+                "median": 2013304.9, 
+                "nkt_price": 2071430.0, 
+                "pack_num": "\u6807\u6bb52", 
+                "nkt_gm3": 0.0465, 
+                "num_company": 4.0
+            }, 
+            {
+                "winner_price": 3187977.07, 
+                "average_no_peak": 3340637.095, 
+                "min": 3462496.74, 
+                "max": 3187977.07, 
+                "average": 3340637.095, 
+                "winner": "\u4e2d\u5229\u79d1\u6280\u8fbd\u5b81\u7535\u7f06", 
+                "median": 3351703.8, 
+                "nkt_price": 3432801.0, 
+                "pack_num": "\u6807\u6bb55", 
+                "nkt_gm3": 0.046, 
+                "num_company": 6.0
+            }, 
+            {
+                "winner_price": 5916447.0, 
+                "average_no_peak": 6802692.1, 
+                "min": 7812163.0, 
+                "max": 5916447.0, 
+                "average": 6802692.1, 
+                "winner": "\u6c5f\u82cf\u4ea8\u901a\u7535\u7f06", 
+                "median": 6721109.5, 
+                "nkt_price": 6721300.0, 
+                "pack_num": "\u6807\u6bb56", 
+                "nkt_gm3": 0.0469, 
+                "num_company": 10.0
+            }, 
+            {
+                "winner_price": 7364369.26, 
+                "average_no_peak": 7846337.311111111, 
+                "min": 8398583.78, 
+                "max": 7364369.26, 
+                "average": 7846337.311111111, 
+                "winner": "\u5b89\u5fbd\u65b0\u4e9a\u7279\u7535\u7f06", 
+                "median": 7832422.24, 
+                "nkt_price": 8110249.0, 
+                "pack_num": "\u6807\u6bb57", 
+                "nkt_gm3": 0.047, 
+                "num_company": 9.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u7535\u529b\u6295\u8d44\u96c6\u56e2\u516c\u53f8\u7269\u8d44\u88c5\u5907\u5206\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u4e2d\u56fd\u7535\u529b\u6295\u8d44\u96c6\u56e2\u516c\u53f8\u4e8c\u3007\u4e00\u56db\u5e74\u5ea6\u7b2c\u516b\u5341\u4e09\u6279\u96c6\u4e2d\u62db\u6807", 
+        "work_num": "NCL-T14-131", 
+        "date": 41967.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5                                                                                                                                                                          \u6743\u91cd\uff1a\u6280\u672f50% \u4ef7\u683c40% \u5546\u52a110%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 1.8667964800000005, 
+                "min": 1.99907, 
+                "max": 1.792178, 
+                "average": 1.8667964800000005, 
+                "winner": 42, 
+                "median": 1.85934, 
+                "nkt_price": 1.9483, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.08, 
+                "num_company": 25.0
+            }
+        ], 
+        "sr": "\u9648\u6b23", 
+        "company": "\u6210\u90fd\u4f9b\u7535\u516c\u53f8", 
+        "csc": "\u6c88\u8587", 
+        "project": "\u6cf0\u5174-\u6842\u901a110kV\u7ebf\u8def\u65b0\u5efa\u5de5\u7a0b110kV\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T14-127", 
+        "date": 41961.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 67.307, 
+                "min": 73.0128, 
+                "max": 61.6012, 
+                "average": 67.307, 
+                "winner": 42, 
+                "median": 67.307, 
+                "nkt_price": 73.0128, 
+                "pack_num": "/", 
+                "nkt_gm3": 0.097, 
+                "num_company": 2.0
+            }
+        ], 
+        "sr": "\u6bd5\u6d77\u6ee8", 
+        "company": "\u56fd\u6295\u94a6\u5dde\u53d1\u7535\u6709\u9650\u516c\u53f8", 
+        "csc": "\u5434\u6587\u5a1f", 
+        "project": "\u5e7f\u897f\u94a6\u5dde\u7535\u5382\u4e8c\u671f\u5de5\u7a0b220kV\u7535\u529b\u7535\u7f06", 
+        "work_num": "NCL-T14-137", 
+        "date": 41991.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5                                                                                                                                                                          \u6743\u91cd\uff1a\u6280\u672f50% \u4ef7\u683c40% \u5546\u52a110%", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 551.95875, 
+                "min": 619.2, 
+                "max": 531.0, 
+                "average": 551.95875, 
+                "winner": 42, 
+                "median": 544.635, 
+                "nkt_price": 619.2, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.08, 
+                "num_company": 8.0
+            }
+        ], 
+        "sr": "\u9648\u6b23", 
+        "company": "\u6210\u90fd\u4f9b\u7535\u516c\u53f8", 
+        "csc": "\u6c88\u8587", 
+        "project": "\u6cf0\u5174-\u6842\u901a110kV\u7ebf\u8def\u65b0\u5efa\u5de5\u7a0b110kV\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T14-127", 
+        "date": 41961.0
+    }, 
+    {
+        "scoring": "\u62a5\u4ef7\u5f97\u5206               75\u5206     \n\u4f01\u4e1a\u8d44\u8d28\u8d44\u4fe1        5\u5206\n\u6280\u672f\u5f97\u5206               10\u5206\n\u7efc\u5408\u5b9e\u529b               10\u5206", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 622.0575, 
+                "min": 655.0, 
+                "max": 581.0, 
+                "average": 622.0575, 
+                "winner": 42, 
+                "median": 619.9, 
+                "nkt_price": 655.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.067, 
+                "num_company": 8.0
+            }
+        ], 
+        "sr": "\u9ec4\u627f\u4e1a", 
+        "company": "\u6c5f\u82cf\u6d77\u7fd4\u7535\u6c14\u5b9e\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u90b9\u8da3", 
+        "project": "/", 
+        "work_num": "NCL-T14-140", 
+        "date": 41990.0
+    }, 
+    {
+        "scoring": "\u6700\u4f4e\u4ef7\u4e2d\u6807", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 1596.91827, 
+                "average_no_peak": 1695.839964, 
+                "min": 1791.0, 
+                "max": 1596.91827, 
+                "average": 1695.839964, 
+                "winner": "\u822a\u5929\u7535\u5de5\u96c6\u56e2", 
+                "median": 1729.49, 
+                "nkt_price": 1729.49, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.07, 
+                "num_company": 5.0
+            }
+        ], 
+        "sr": "\u5468\u5efa\u56fd", 
+        "company": "\u6b66\u6c49\u5929\u6cb3\u673a\u573a\u6269\u5efa\u5de5\u7a0b\u6307\u6325\u90e8", 
+        "csc": "\u738b\u83ba", 
+        "project": "\u6b66\u6c49\u5929\u6cb3\u673a\u573a\u4e09\u671f\u6269\u5efa\u5de5\u7a0b\u5e02\u653f\u5e9c\u53ca\u914d\u5957\u7ba1\u7ebf\u62c6\u6539\u5de5\u7a0b10KV\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T14-141", 
+        "date": 42010.0
+    }, 
+    {
+        "scoring": "", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 997.6894589999998, 
+                "min": 1087.4466, 
+                "max": 931.8834, 
+                "average": 997.6894589999998, 
+                "winner": 42, 
+                "median": 981.3195900000001, 
+                "nkt_price": 1065.0096, 
+                "pack_num": 1.0, 
+                "nkt_gm3": 0.136, 
+                "num_company": 18.0
+            }, 
+            {
+                "winner_price": 1121.0, 
+                "average_no_peak": 1308.41225, 
+                "min": 1588.0, 
+                "max": 1121.0, 
+                "average": 1308.41225, 
+                "winner": "\u5b9d\u80dc\u79d1\u6280", 
+                "median": 1275.0, 
+                "nkt_price": 1304.947, 
+                "pack_num": "\u6807\u6bb52", 
+                "nkt_gm3": 0.04, 
+                "num_company": 12.0
+            }
+        ], 
+        "sr": "\u9648\u6b23", 
+        "company": "\u4e2d\u56fd\u7535\u4fe1\u80a1\u4efd\u6709\u9650\u516c\u53f8\u56db\u5ddd\u5206\u516c\u53f8", 
+        "csc": "\u90b9\u8da3", 
+        "project": "\u897f\u4fe1\u9879\u76ee", 
+        "work_num": "NCL-T15-005", 
+        "date": 42079.0
+    }, 
+    {
+        "scoring": "\u6700\u4f4e\u8bc4\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 1009.0, 
+                "average_no_peak": 1053.7613833333332, 
+                "min": 1184.0, 
+                "max": 1009.0, 
+                "average": 1053.7613833333332, 
+                "winner": "\u5b89\u5fbd\u65b0\u4e9a\u7279", 
+                "median": 1047.0, 
+                "nkt_price": 1069.1366, 
+                "pack_num": "\u6807\u6bb51", 
+                "nkt_gm3": 0.0435, 
+                "num_company": 12.0
+            }, 
+            {
+                "winner_price": 1121.0, 
+                "average_no_peak": 1308.41225, 
+                "min": 1588.0, 
+                "max": 1121.0, 
+                "average": 1308.41225, 
+                "winner": "\u5b9d\u80dc\u79d1\u6280", 
+                "median": 1275.0, 
+                "nkt_price": 1304.947, 
+                "pack_num": "\u6807\u6bb52", 
+                "nkt_gm3": 0.0467, 
+                "num_company": 12.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u7535\u529b\u6295\u8d44\u96c6\u56e2\u516c\u53f8\u7269\u8d44\u88c5\u5907\u5206\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u4e2d\u56fd\u7535\u529b\u6295\u8d44\u96c6\u56e2\u516c\u53f8\u4e8c\u3007\u4e00\u4e94\u5e74\u5ea6\u7b2c\u4e5d\u6279\u96c6\u4e2d\u62db\u6807", 
+        "work_num": "NCL-T15-009", 
+        "date": 42044.0
+    }, 
+    {
+        "scoring": "\u6700\u4f4e\u4ef7\u4e2d\u6807", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 2575422.92, 
+                "average_no_peak": 2939638.441818182, 
+                "min": 3547050.24, 
+                "max": 2351791.19, 
+                "average": 2939638.441818182, 
+                "winner": "\u6c5f\u82cf\u7ea2\u5cf0", 
+                "median": 2926878.4699999997, 
+                "nkt_price": 2680683.0, 
+                "pack_num": "\u53053", 
+                "nkt_gm3": 0.059, 
+                "num_company": 22.0
+            }
+        ], 
+        "sr": "\u5218\u6d77\u65b0", 
+        "company": "\u9655\u897f\u7f8e\u946b\u4ea7\u4e1a\u6295\u8d44\u6709\u9650\u516c\u53f8", 
+        "csc": "\u738b\u83ba", 
+        "project": "\u9655\u897f\u7f8e\u946b\u4ea7\u4e1a\u6295\u8d44\u6709\u9650\u516c\u53f8\u5e74\u4ea730\u4e07\u5428\u94dd\u9541\u5408\u91d1\u9879\u76ee\u914d\u5957\u52a8\u529b\u8bbe\u65bd\u5de5\u7a0b\u8bbe\u5907\u91c7\u8d2d\u6b66\u6c49\u5929\u6cb3\u673a\u573a\u4e09\u671f\u6269\u5efa\u5de5\u7a0b\u5e02\u653f\u5e9c\u53ca\u914d\u5957\u7ba1\u7ebf\u62c6\u6539\u5de5\u7a0b10KV\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T15-009", 
+        "date": "2015/2/5 \u4e0a\u53489\u70b9"
+    }, 
+    {
+        "scoring": " \u8bc4\u6807\u57fa\u51c6\u4ef7\u7684\u8ba1\u7b97\uff08M\u4e3a\u6709\u6548\u6295\u6807\u4eba\u7684\u6570\u91cf\uff09\n 1\uff093\u2264M\u22645\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76843\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b\n 2\uff095<M\u226410\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76844\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b \n 3\uff0910<M\u226415 \n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76845\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n 4\uff09M\uff1e15\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76846\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 794.1881, 
+                "average_no_peak": 844.8862437500001, 
+                "min": 976.5176, 
+                "max": 722.1801, 
+                "average": 844.8862437500001, 
+                "winner": "\u56db\u5ddd\u660e\u661f\u7535\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 833.0192999999999, 
+                "nkt_price": 816.47, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.06, 
+                "num_company": 16.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u6e56\u5357\u5927\u5510\u534e\u94f6\u82b7\u6c5f\u897f\u6643\u5c71\u98ce\u7535\u573a\u5de5\u7a0b", 
+        "work_num": "NCL-T15-14", 
+        "date": 42073.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 1225.1561810558833, 
+                "min": 1438.5449820072, 
+                "max": 1147.5573, 
+                "average": 1225.1561810558833, 
+                "winner": 42, 
+                "median": 1184.0148512493251, 
+                "nkt_price": 1171.08439156084, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.044, 
+                "num_company": 6.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u6dee\u5317\u7533\u7696\u53d1\u7535\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5b89\u5fbd\u6dee\u5317\u5e73\u5c71\u7535\u5382\u4e00\u671f\u5de5\u7a0b", 
+        "work_num": "NCL-T15-21", 
+        "date": 42101.0
+    }, 
+    {
+        "scoring": "\u6700\u4f4e\u4ef7\u4e2d\u6807", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 317.4454215, 
+                "min": 326.4964, 
+                "max": 307.895, 
+                "average": 317.4454215, 
+                "winner": 42, 
+                "median": 317.69514300000003, 
+                "nkt_price": 307.895, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.266, 
+                "num_company": 4.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u56db\u5ddd\u7855\u66f2\u6cb3\u53bb\u5b66\u6c34\u7535\u7ad9\n220kV\u4ea4\u8054\u805a\u4e59\u70ef\u7edd\u7f18\u7535\u7f06\u53ca\u5176\u9644\u5c5e\u8bbe\u5907\u91c7\u8d2d", 
+        "work_num": "NCL-T15-022", 
+        "date": 42103.0
+    }, 
+    {
+        "scoring": " \u8bc4\u6807\u57fa\u51c6\u4ef7\u7684\u8ba1\u7b97\uff08M\u4e3a\u6709\u6548\u6295\u6807\u4eba\u7684\u6570\u91cf\uff09\n 1\uff093\u2264M\u22645\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76843\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b\n 2\uff095<M\u226410\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76844\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b \n 3\uff0910<M\u226415 \n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76845\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n 4\uff09M\uff1e15\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76846\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 739.993617, 
+                "average_no_peak": 742.2070243000001, 
+                "min": 836.301151, 
+                "max": 636.391503, 
+                "average": 742.2070243000001, 
+                "winner": "\u6c5f\u82cf\u534e\u8fdc\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 750.796501, 
+                "nkt_price": 696.6038, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.044, 
+                "num_company": 10.0
+            }, 
+            {
+                "winner_price": 1118.57629, 
+                "average_no_peak": 1158.8998373333336, 
+                "min": 1253.16021, 
+                "max": 1090.43244, 
+                "average": 1158.8998373333336, 
+                "winner": "\u6c5f\u82cf\u4ea8\u901a\u7535\u529b\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 1150.18015, 
+                "nkt_price": 1163.357, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.043, 
+                "num_company": 15.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u6e56\u5357\u5927\u5510\u534e\u94f6\u82b7\u6c5f\u897f\u6643\u5c71\u98ce\u7535\u573a\u5de5\u7a0b", 
+        "work_num": "NCL-T15-26", 
+        "date": 42103.0
+    }, 
+    {
+        "scoring": "", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 1433.287682, 
+                "average_no_peak": 1458.9641136714285, 
+                "min": 1693.20835, 
+                "max": 1392.379885, 
+                "average": 1461.292724888889, 
+                "winner": "\u8fbd\u5b81\u91d1\u73af\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 1445.3574895000002, 
+                "nkt_price": 1444.246412, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.04, 
+                "num_company": 72.0
+            }, 
+            {
+                "winner_price": 1605.55407, 
+                "average_no_peak": 1634.5960618059698, 
+                "min": 1898.253122, 
+                "max": 1543.116199, 
+                "average": 1637.0913835072463, 
+                "winner": "\u6c5f\u82cf\u5357\u745e\u6dee\u80dc\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 1622.713178, 
+                "nkt_price": 1618.072816, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.039, 
+                "num_company": 69.0
+            }, 
+            {
+                "winner_price": 1513.193023, 
+                "average_no_peak": 1561.850223960784, 
+                "min": 4595.041876, 
+                "max": 1217.179909, 
+                "average": 1612.5770416415091, 
+                "winner": "\u6c5f\u82cf\u4e2d\u8d85\u7535\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 1553.928129, 
+                "nkt_price": 1518.180317, 
+                "pack_num": "\u53053", 
+                "nkt_gm3": 0.039, 
+                "num_company": 53.0
+            }, 
+            {
+                "winner_price": 1155.703556, 
+                "average_no_peak": 1179.4863492941179, 
+                "min": 1373.725839, 
+                "max": 251.975591, 
+                "average": 1169.0110454571432, 
+                "winner": "\u98de\u6d32\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+                "median": 1171.9327365, 
+                "nkt_price": 1171.73921, 
+                "pack_num": "\u53054", 
+                "nkt_gm3": 0.041, 
+                "num_company": 70.0
+            }, 
+            {
+                "winner_price": 1093.576536, 
+                "average_no_peak": 1095.7157416307687, 
+                "min": 1186.623463, 
+                "max": 1018.401382, 
+                "average": 1095.9186276268651, 
+                "winner": "\u626c\u5dde\u66d9\u5149\u7535\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 1091.135048, 
+                "nkt_price": 1091.819949, 
+                "pack_num": "\u53055", 
+                "nkt_gm3": 0.04, 
+                "num_company": 67.0
+            }, 
+            {
+                "winner_price": 1216.403245, 
+                "average_no_peak": 1245.06374015, 
+                "min": 2158.838856, 
+                "max": 1152.496452, 
+                "average": 1258.3090276935486, 
+                "winner": "\u5317\u4eac\u5929\u6210\u745e\u6e90\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 1234.991251, 
+                "nkt_price": 1232.891008, 
+                "pack_num": "\u53056", 
+                "nkt_gm3": 0.04, 
+                "num_company": 62.0
+            }, 
+            {
+                "winner_price": 903.974924, 
+                "average_no_peak": 930.0654705937498, 
+                "min": 1033.029387, 
+                "max": 736.916306, 
+                "average": 928.6990274393936, 
+                "winner": "\u65e0\u9521\u5e02\u6052\u6c47\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 925.6035145000001, 
+                "nkt_price": 923.955006, 
+                "pack_num": "\u53057", 
+                "nkt_gm3": 0.04, 
+                "num_company": 66.0
+            }, 
+            {
+                "winner_price": 865.180938, 
+                "average_no_peak": 877.1446525483871, 
+                "min": 987.109627, 
+                "max": 835.926611, 
+                "average": 878.2188233749999, 
+                "winner": "\u65e0\u9521\u5e02\u957f\u57ce\u7535\u7ebf\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 871.5975935, 
+                "nkt_price": 869.333503, 
+                "pack_num": "\u53058", 
+                "nkt_gm3": 0.04, 
+                "num_company": 64.0
+            }, 
+            {
+                "winner_price": 913.420697, 
+                "average_no_peak": 919.4121802950822, 
+                "min": 1025.830785, 
+                "max": 849.773263, 
+                "average": 919.9959848571431, 
+                "winner": "\u676d\u5dde\u7535\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 913.815385, 
+                "nkt_price": 914.032505, 
+                "pack_num": "\u53059", 
+                "nkt_gm3": 0.04, 
+                "num_company": 63.0
+            }, 
+            {
+                "winner_price": 751.151672, 
+                "average_no_peak": 758.9299331403507, 
+                "min": 820.688192, 
+                "max": 730.318768, 
+                "average": 759.4917482881355, 
+                "winner": "\u8861\u9633\u6052\u98de\u7535\u7f06\u6709\u9650\u8d23\u4efb\u516c\u53f8", 
+                "median": 754.839983, 
+                "nkt_price": 753.793103, 
+                "pack_num": "\u530510", 
+                "nkt_gm3": 0.04, 
+                "num_company": 59.0
+            }
+        ], 
+        "sr": "\u97e9\u7115\u8d24", 
+        "company": "\u56fd\u5bb6\u7535\u7f51\u516c\u53f8\u5c71\u897f\u7535\u7f51", 
+        "csc": "\u5f20\u829d\u857e", 
+        "project": "\u56fd\u5bb6\u7535\u7f51\u516c\u53f8\u5c71\u897f\u7535\u7f512015\u5e74\u7b2c\u4e00\u6279\u914d\u7f51\u7ebf\u8def\u6750\u6599\u534f\u8bae\u5e93\u5b58\u62db\u6807", 
+        "work_num": "NCL-T15-033", 
+        "date": 42114.0
+    }, 
+    {
+        "scoring": " \u8bc4\u6807\u57fa\u51c6\u4ef7\u7684\u8ba1\u7b97\uff08M\u4e3a\u6709\u6548\u6295\u6807\u4eba\u7684\u6570\u91cf\uff09\n 1\uff093\u2264M\u22645\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76843\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b\n 2\uff095<M\u226410\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76844\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b \n 3\uff0910<M\u226415 \n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76845\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n 4\uff09M\uff1e15\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76846\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 1174.43242, 
+                "average_no_peak": 1192.816212090909, 
+                "min": 1260.63691, 
+                "max": 1127.18685, 
+                "average": 1192.816212090909, 
+                "winner": "\u5b9d\u80dc\u79d1\u6280\u521b\u65b0\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 1194.21517, 
+                "nkt_price": 1198.438, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.036, 
+                "num_company": 11.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5927\u5510\u95fb\u559c\u540e\u5bab\u8328\u5e99\u98ce\u7535\u573a\uff08100MW\uff09\u3001\u5927\u5510\u4e09\u95e8\u5ce1\u706b\u7535\u5382\u4e09\u671f\u6269\u5efa\u5de5\u7a0b2\u00d71000MW\u8d85\u8d85\u4e34\u754c\u673a\u7ec4\u3001\u5927\u5510\u79d1\u6280\u516c\u53f8\u603b\u5305\u629a\u5dde\u53d1\u7535\u6709\u9650\u8d23\u4efb\u516c\u53f82\u00d71000MW\u70df\u6c14\u8131\u786b\u5de5\u7a0b", 
+        "work_num": "NCL-T15-045", 
+        "date": 42129.0
+    }, 
+    {
+        "scoring": "\u6700\u4f4e\u8bc4\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 1150.1603, 
+                "average_no_peak": 1474.250776923077, 
+                "min": 1645.8412, 
+                "max": 1150.1603, 
+                "average": 1474.250776923077, 
+                "winner": "\u6c5f\u82cf\u4e0a\u4e0a", 
+                "median": 1501.3382, 
+                "nkt_price": 1553.1985, 
+                "pack_num": "\u6807\u6bb53", 
+                "nkt_gm3": 0.048, 
+                "num_company": 13.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u7535\u529b\u6295\u8d44\u96c6\u56e2\u516c\u53f8\u7269\u8d44\u88c5\u5907\u5206\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u4e2d\u56fd\u7535\u529b\u6295\u8d44\u96c6\u56e2\u516c\u53f8\u4e8c\u3007\u4e00\u4e94\u5e74\u5ea6\u7b2c43\u6279\u96c6\u4e2d\u62db\u6807", 
+        "work_num": "NCL-T15-045", 
+        "date": 42144.0
+    }, 
+    {
+        "scoring": "", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 406.9699, 
+                "average_no_peak": 411.4110388888889, 
+                "min": 446.3692, 
+                "max": 389.7734, 
+                "average": 411.4110388888889, 
+                "winner": "\u5b9d\u80dc\u79d1\u6280", 
+                "median": 409.248, 
+                "nkt_price": 418.656, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.055, 
+                "num_company": 18.0
+            }
+        ], 
+        "sr": "\u5468\u5efa\u56fd", 
+        "company": "\u626c\u5dde\u5e7f\u6e90\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u738b\u83ba", 
+        "project": "\u4ea4\u901a\u94f6\u884c\u91d1\u878d\u670d\u52a1\u4e2d\u5fc3\u4e00\u671f\u5916\u7ebf\u5de5\u7a0b\u6240\u9700\u8bbe\u5907-\u4ea4\u8054\u7535\u7f06", 
+        "work_num": "NCL-T15-048", 
+        "date": 42138.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u5ba1\uff0c\u62e9\u4f18\u5b9a\u6807\uff0c\u4ef7\u683c\u6700\u4f4e\u672a\u5fc5\u4e2d\u6807", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 346.6844, 
+                "average_no_peak": 356.49679999999995, 
+                "min": 378.0324, 
+                "max": 331.024, 
+                "average": 356.49679999999995, 
+                "winner": "\u7279\u53d8\u7535\u5de5\u9c81\u80fd\u6cf0\u5c71", 
+                "median": 357.2822, 
+                "nkt_price": 367.88, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.051, 
+                "num_company": 6.0
+            }
+        ], 
+        "sr": "\u6768\u6625\u666f", 
+        "company": "\u6d4e\u5b81\u7535\u529b\u5b9e\u4e1a\u603b\u516c\u53f8\u5b89\u8d28\u5ba1\u8ba1\u90e8", 
+        "csc": "\u738b\u83ba", 
+        "project": "2015\u5e74\u7535\u5382\u5357\u7247\u533a\u7535\u529b\u67b6\u7a7a\u7ebf\u8def\u4e0b\u5730\u5de5\u7a0b10KV\u7535\u7f06\u91c7\u8d2d", 
+        "work_num": "NCL-T15-052", 
+        "date": 42143.0
+    }, 
+    {
+        "scoring": "\u8bae\u6807\uff0c\u65e0\u5f00\u6807\u8bb0\u5f55", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 0.0, 
+                "average_no_peak": 36, 
+                "min": 0.0, 
+                "max": 0.0, 
+                "average": 7, 
+                "winner": "\u7279\u53d8\u7535\u5de5\u6cf0\u5c71\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 36, 
+                "nkt_price": 42, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0, 
+                "num_company": 0.0
+            }
+        ], 
+        "sr": "\u5d14\u536b\u5e73", 
+        "company": "\u7279\u53d8\u7535\u5de5\u6c88\u9633\u53d8\u538b\u5668\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u738b\u83ba", 
+        "project": "\u5c3c\u65e5\u5c14\u8f93\u7535\u7ebf\u8def\u5de5\u7a0b", 
+        "work_num": "NCL-T15-076", 
+        "date": 42222.0
+    }, 
+    {
+        "scoring": "\u57fa\u51c6\u4ef7\u6cd5\u7efc\u5408\u8bc4\u6807\n2.3.1 \u57fa\u51c6\u4ef7\u7684\u786e\u5b9a\uff1a\n\u2460 \u82e5\u4f9b\u5e94\u5546\u7684\u6709\u6548\u62a5\u4ef7\u5927\u4e8e\u7b49\u4e8e5\u5bb6\uff0c\u672c\u6b21\u91c7\u8d2d\u57fa\u51c6\u4ef7\u7684\u786e\u5b9a\u91c7\u7528\u4e8c\u6b21\u4e2d\u95f4\u4ef7\u6cd5\uff08\u5373\u7b2c\u4e00\u6b21\u4e3a\u6240\u6709\u9080\u8bf7\u5355\u4f4d\u901a\u8fc7\u6709\u6548\u62a5\u4ef7\u5e73\u5747\u503c\uff0c\u7b2c\u4e8c\u6b21\u4ee5\u7b2c\u4e00\u6b21\u5e73\u5747\u503c\u548c\u6240\u6709\u9080\u8bf7\u5355\u4f4d\u901a\u8fc7\u7684\u6709\u6548\u62a5\u4ef7\u7684\u6b21\u4f4e\u4ef7\u518d\u53d6\u5e73\u5747\u503c\uff0c\u7b2c\u4e8c\u6b21\u5e73\u5747\u503c\u5373\u4e3a\u57fa\u51c6\u4ef7\uff09\u3002\n\u2461\u82e5\u4f9b\u5e94\u5546\u7684\u6709\u6548\u62a5\u4ef7\u7b49\u4e8e4\u5bb6\uff0c\u672c\u6b21\u91c7\u8d2d\u57fa\u51c6\u4ef7\u7684\u786e\u5b9a\u91c7\u7528\u4e00\u6b21\u4e2d\u95f4\u4ef7\u6cd5\uff08\u5373\u7b2c\u4e00\u6b21\u4e3a\u6240\u6709\u9080\u8bf7\u5355\u4f4d\u901a\u8fc7\u6709\u6548\u62a5\u4ef7\u5e73\u5747\u503c\uff09\u3002\n\u2462\u82e5\u4f9b\u5e94\u5546\u6709\u6548\u62a5\u4ef7\u7b49\u4e8e3\u5bb6\uff0c\u672c\u6b21\u91c7\u8d2d\u57fa\u51c6\u4ef7\u7684\u786e\u5b9a\u91c7\u7528\u6700\u4f4e\u4ef7\u4e2d\u6807\u6cd5\u3002\n \u2463\u5f53\u4e00\u4e2a\u5305\u4e2d\u7684\u5e94\u7b54\u5382\u5bb6\u5c11\u4e8e\u4e09\u5bb6\uff0c\u6216\u8005\u901a\u8fc7\u7b26\u5408\u6027\u5ba1\u67e5\u7684\u6709\u6548\u5e94\u7b54\u5382\u5bb6\u5c11\u4e8e\u4e09\u5bb6\uff0c\u8be5\u5305\u89c6\u6d41\u6807\u5904\u7406\u3002\n2.3.2 \u8bc4\u5ba1\u4ef7\u683c\u5206\u8ba1\u7b97\uff1a\u6709\u6548\u62a5\u4ef7\u7b49\u4e8e\u57fa\u51c6\u4ef7\u5f97100\u5206\uff1b\u57fa\u51c6\u4ef7\u4ee5\u4e0b\u7684\u6709\u6548\u62a5\u4ef7\uff0c\u6bcf\u4e0b\u964d1\u4e2a\u767e\u5206\u70b9\u62630.5\u5206\uff1b\u57fa\u51c6\u4ef7\u4ee5\u4e0a\u7684\u6709\u6548\u62a5\u4ef7\uff0c\u6bcf\u4e0a\u53471\u4e2a\u767e\u5206\u70b9\u62631\u5206\u3002\u8bc4\u5206\u4e0d\u8db350\u5206\u7684\u4ee550\u5206\u8ba1\u3002\n3. \u7efc\u5408\u5f97\u5206\uff08\u6ee1\u5206100\u5206\uff09=\u8bc4\u5ba1\u6280\u672f\u5206\uff08\u6743\u91cd30%\uff09+\u8bc4\u5ba1\u4ef7\u683c\u5206\uff08\u6743\u91cd70%\uff09\uff0b\u4f9b\u5e94\u5546\u5ec9\u6d01\u4fe1\u7528\u8bc4\u4ef7\u6263\u5206\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 160.84333333333333, 
+                "min": 206.4, 
+                "max": 136.8, 
+                "average": 160.84333333333333, 
+                "winner": 42, 
+                "median": 150.0, 
+                "nkt_price": 182.54, 
+                "pack_num": 1.0, 
+                "nkt_gm3": 0.05, 
+                "num_company": 6.0
+            }
+        ], 
+        "sr": "\u674e\u7ef4\u6ce2", 
+        "company": "\u6d59\u6c5f\u5bb9\u5927\u7535\u529b\u5de5\u7a0b\u6709\u9650\u516c\u53f8", 
+        "csc": "\u6851\u76ca\u6c11", 
+        "project": "\u4e2d\u6c5f\u4e2d\u9e7f\u91d1\u9e7f\u7ebf\u4e0a\u6539\u4e0b\u5de5\u7a0b\uff08110kV\u7535\u7f06\u9644\u4ef6\uff09\u91c7\u8d2d\u9879\u76ee", 
+        "work_num": "NCL-T15-083", 
+        "date": 42234.0
+    }, 
+    {
+        "scoring": " \u8bc4\u6807\u57fa\u51c6\u4ef7\u7684\u8ba1\u7b97\uff08M\u4e3a\u6709\u6548\u6295\u6807\u4eba\u7684\u6570\u91cf\uff09\n 1\uff093\u2264M\u22645\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76843\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b\n 2\uff095<M\u226410\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76844\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b \n 3\uff0910<M\u226415 \n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76845\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n 4\uff09M\uff1e15\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76846\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 711.3784, 
+                "average_no_peak": 746.376952, 
+                "min": 804.97508, 
+                "max": 689.00412, 
+                "average": 746.376952, 
+                "winner": "\u9752\u5c9b\u6c49\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 738.7767, 
+                "nkt_price": 721.536, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.0154, 
+                "num_company": 10.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u6e56\u5357\u5927\u5510\u534e\u94f6\u7ee5\u5b81\u5b9d\u9f0e\u5c71\u98ce\u7535\u573a\u5de5\u7a0b", 
+        "work_num": "NCL-T15-84", 
+        "date": 42254.0
+    }, 
+    {
+        "scoring": "2.3.1 \u57fa\u51c6\u4ef7\u7684\u786e\u5b9a\uff1a", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 463806.6666666667, 
+                "min": 1008000.0, 
+                "max": 342000.0, 
+                "average": 463806.6666666667, 
+                "winner": 42, 
+                "median": 354000.0, 
+                "nkt_price": 378000.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.0, 
+                "num_company": 6.0
+            }
+        ], 
+        "sr": "\u4ee3\u7406\u5362\u6881", 
+        "company": "\u676d\u5dde\u7535\u529b-\u6d59\u6c5f\u6b23\u51ef\u745e", 
+        "csc": "\u6851\u76ca\u6c11", 
+        "project": "110kV\u4e91\u4f1a-\u4ec1\u9547\u3001\u6d1b\u5c718#-15#\u4e0a\u6539\u4e0b\u5de5\u7a0b\u7b49\u7535\u7f06\u53ca\u9644\u4ef6\u91c7\u8d2d\u9879\u76ee", 
+        "work_num": "NCL-T15-101", 
+        "date": 42268.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u5206\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 860.6862, 
+                "average_no_peak": 919.0639046181819, 
+                "min": 1066.269, 
+                "max": 814.6602, 
+                "average": 919.0639046181819, 
+                "winner": "\u6c5f\u82cf\u4ea8\u901a", 
+                "median": 860.6862, 
+                "nkt_price": 856.0836, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.03, 
+                "num_company": 11.0
+            }
+        ], 
+        "sr": "\u4faf\u58eb\u840d\uff08\u4ee3\u7406\uff09", 
+        "company": "\u6b66\u6c49\u8f66\u90fd\u8f68\u9053\u4ea4\u901a\u6709\u9650\u516c\u53f8", 
+        "csc": "\u6851\u76ca\u6c11", 
+        "project": "", 
+        "work_num": "NCL-T15-101", 
+        "date": 42300.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u5206\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 558.11109, 
+                "average_no_peak": 541.0295666363636, 
+                "min": 627.9747, 
+                "max": 467.277, 
+                "average": 541.0295666363636, 
+                "winner": "\u822a\u5929\u7535\u5de5", 
+                "median": 508.3062, 
+                "nkt_price": 508.3062, 
+                "pack_num": "\u53053", 
+                "nkt_gm3": 0.0303, 
+                "num_company": 11.0
+            }
+        ], 
+        "sr": "\u4faf\u58eb\u840d\uff08\u4ee3\u7406\uff09", 
+        "company": "\u6b66\u6c49\u8f66\u90fd\u8f68\u9053\u4ea4\u901a\u6709\u9650\u516c\u53f8", 
+        "csc": "\u6851\u76ca\u6c11", 
+        "project": "", 
+        "work_num": "NCL-T15-101", 
+        "date": 42300.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u5206\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 468.028622, 
+                "average_no_peak": 455.63651845454547, 
+                "min": 536.7463, 
+                "max": 404.8353, 
+                "average": 455.63651845454547, 
+                "winner": "\u6c5f\u897f\u7535\u7f06", 
+                "median": 439.9614, 
+                "nkt_price": 439.9614, 
+                "pack_num": "\u53054", 
+                "nkt_gm3": 0.03, 
+                "num_company": 11.0
+            }
+        ], 
+        "sr": "\u4faf\u58eb\u840d\uff08\u4ee3\u7406\uff09", 
+        "company": "\u6b66\u6c49\u8f66\u90fd\u8f68\u9053\u4ea4\u901a\u6709\u9650\u516c\u53f8", 
+        "csc": "\u6851\u76ca\u6c11", 
+        "project": "", 
+        "work_num": "NCL-T15-101", 
+        "date": 42300.0
+    }, 
+    {
+        "scoring": "2.3.1 \u57fa\u51c6\u4ef7\u7684\u786e\u5b9a\uff1a", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 463806.6666666667, 
+                "min": 1008000.0, 
+                "max": 342000.0, 
+                "average": 463806.6666666667, 
+                "winner": 42, 
+                "median": 354000.0, 
+                "nkt_price": 378000.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.0, 
+                "num_company": 6.0
+            }
+        ], 
+        "sr": "\u4ee3\u7406\u5362\u6881", 
+        "company": "\u676d\u5dde\u7535\u529b-\u6d59\u6c5f\u6b23\u51ef\u745e", 
+        "csc": "\u6851\u76ca\u6c11", 
+        "project": "110kV\u4e91\u4f1a-\u4ec1\u9547\u3001\u6d1b\u5c718#-15#\u4e0a\u6539\u4e0b\u5de5\u7a0b\u7b49\u7535\u7f06\u53ca\u9644\u4ef6\u91c7\u8d2d\u9879\u76ee", 
+        "work_num": "NCL-T15-101", 
+        "date": 42268.0
+    }, 
+    {
+        "scoring": " \u8bc4\u6807\u57fa\u51c6\u4ef7\u7684\u8ba1\u7b97\uff08M\u4e3a\u6709\u6548\u6295\u6807\u4eba\u7684\u6570\u91cf\uff09\n 1\uff093\u2264M\u22645\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76843\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b\n 2\uff095<M\u226410\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76844\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b \n 3\uff0910<M\u226415 \n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76845\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n 4\uff09M\uff1e15\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76846\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 823.03496, 
+                "average_no_peak": 849.7055337499999, 
+                "min": 876.8767, 
+                "max": 819.71027, 
+                "average": 849.7055337499999, 
+                "winner": "\u5b9d\u80dc\u79d1\u6280\u521b\u65b0\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 856.248495, 
+                "nkt_price": 862.9751, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.0157, 
+                "num_company": 8.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "", 
+        "work_num": "NCL-T15-105", 
+        "date": 42285.0
+    }, 
+    {
+        "scoring": " \u6700\u4f4e\u4ef7\u4e2d\u6807", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 257.1658, 
+                "average_no_peak": 270.672302, 
+                "min": 281.8413, 
+                "max": 257.1658, 
+                "average": 270.672302, 
+                "winner": "\u7279\u53d8\u7535\u5de5\u5c71\u4e1c\u9c81\u80fd\u6cf0\u5c71\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 271.841054, 
+                "nkt_price": 281.8413, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.194, 
+                "num_company": 4.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u6dee\u5357\u7530\u5bb6\u5eb5\u53d1\u7535\u5382220kV\u4ea4\u8054\u7535\u7f06\u53ca\u9644\u5c5e\u8bbe\u5907", 
+        "work_num": "NCL-T15-109", 
+        "date": 42395.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u5ba1\uff0c\u62e9\u4f18\u5b9a\u6807\uff0c\u4ef7\u683c\u6700\u4f4e\u672a\u5fc5\u4e2d\u6807", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 291.60635355555564, 
+                "min": 328.0248, 
+                "max": 257.05412, 
+                "average": 291.60635355555564, 
+                "winner": 42, 
+                "median": 285.706611, 
+                "nkt_price": 323.34687, 
+                "pack_num": "\u7b2c\u4e94\u5305", 
+                "nkt_gm3": 0.051, 
+                "num_company": 9.0
+            }
+        ], 
+        "sr": "\u6768\u6625\u666f", 
+        "company": "\u6d4e\u5b81\u7535\u529b\u5b9e\u4e1a\u603b\u516c\u53f8\u5b89\u8d28\u5ba1\u8ba1\u90e8", 
+        "csc": "\u738b\u83ba", 
+        "project": "2015\u5e74\u7535\u5382\u5357\u7247\u533a\u7535\u529b\u67b6\u7a7a\u7ebf\u8def\u4e0b\u5730\u5de5\u7a0b110KV\u7535\u7f06\u91c7\u8d2d\uff08\u7b2c\u4e94\u5305\uff09", 
+        "work_num": "NCL-T15-110", 
+        "date": 42322.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u5ba1\uff0c\u62e9\u4f18\u5b9a\u6807\uff0c\u4ef7\u683c\u6700\u4f4e\u672a\u5fc5\u4e2d\u6807", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 394.26079144444446, 
+                "min": 440.334, 
+                "max": 342.86024, 
+                "average": 394.26079144444446, 
+                "winner": 42, 
+                "median": 381.607406, 
+                "nkt_price": 438.77691, 
+                "pack_num": "\u7b2c\u56db\u5305", 
+                "nkt_gm3": 0.051, 
+                "num_company": 9.0
+            }
+        ], 
+        "sr": "\u6768\u6625\u666f", 
+        "company": "\u6d4e\u5b81\u7535\u529b\u5b9e\u4e1a\u603b\u516c\u53f8\u5b89\u8d28\u5ba1\u8ba1\u90e8", 
+        "csc": "\u738b\u83ba", 
+        "project": "2015\u5e74\u7535\u5382\u5357\u7247\u533a\u7535\u529b\u67b6\u7a7a\u7ebf\u8def\u4e0b\u5730\u5de5\u7a0b110KV\u7535\u7f06\u91c7\u8d2d\uff08\u7b2c\u56db\u5305\uff09", 
+        "work_num": "NCL-T15-110", 
+        "date": 42322.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u5ba1\uff0c\u62e9\u4f18\u5b9a\u6807\uff0c\u4ef7\u683c\u6700\u4f4e\u672a\u5fc5\u4e2d\u6807", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 394.4112857777778, 
+                "min": 483.76345, 
+                "max": 342.86024, 
+                "average": 394.4112857777778, 
+                "winner": 42, 
+                "median": 388.03, 
+                "nkt_price": 483.76345, 
+                "pack_num": "\u7b2c\u4e09\u5305", 
+                "nkt_gm3": 0.051, 
+                "num_company": 9.0
+            }
+        ], 
+        "sr": "\u6768\u6625\u666f", 
+        "company": "\u6d4e\u5b81\u7535\u529b\u5b9e\u4e1a\u603b\u516c\u53f8\u5b89\u8d28\u5ba1\u8ba1\u90e8", 
+        "csc": "\u738b\u83ba", 
+        "project": "2015\u5e74\u7535\u5382\u5357\u7247\u533a\u7535\u529b\u67b6\u7a7a\u7ebf\u8def\u4e0b\u5730\u5de5\u7a0b110KV\u7535\u7f06\u91c7\u8d2d\uff08\u7b2c\u4e09\u5305\uff09", 
+        "work_num": "NCL-T15-110", 
+        "date": 42322.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u5ba1\uff0c\u62e9\u4f18\u5b9a\u6807\uff0c\u4ef7\u683c\u6700\u4f4e\u672a\u5fc5\u4e2d\u6807", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 288.6103892222222, 
+                "min": 353.96259, 
+                "max": 255.529404, 
+                "average": 288.6103892222222, 
+                "winner": 42, 
+                "median": 277.750158, 
+                "nkt_price": 353.96259, 
+                "pack_num": "\u7b2c\u516d\u5305", 
+                "nkt_gm3": 0.051, 
+                "num_company": 9.0
+            }
+        ], 
+        "sr": "\u6768\u6625\u666f", 
+        "company": "\u6d4e\u5b81\u7535\u529b\u5b9e\u4e1a\u603b\u516c\u53f8\u5b89\u8d28\u5ba1\u8ba1\u90e8", 
+        "csc": "\u738b\u83ba", 
+        "project": "2015\u5e74\u7535\u5382\u5357\u7247\u533a\u7535\u529b\u67b6\u7a7a\u7ebf\u8def\u4e0b\u5730\u5de5\u7a0b110KV\u7535\u7f06\u91c7\u8d2d\uff08\u7b2c\u4e94\u5305\uff09", 
+        "work_num": "NCL-T15-110", 
+        "date": 42322.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u5ba1\uff0c\u62e9\u4f18\u5b9a\u6807\uff0c\u4ef7\u683c\u6700\u4f4e\u672a\u5fc5\u4e2d\u6807", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 399.2516211428571, 
+                "min": 488.166, 
+                "max": 360.000202, 
+                "average": 399.2516211428571, 
+                "winner": 42, 
+                "median": 384.768, 
+                "nkt_price": 397.2, 
+                "pack_num": "\u7b2c\u4e00\u5305", 
+                "nkt_gm3": 0.025, 
+                "num_company": 7.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 553.5425034285715, 
+                "min": 649.5683, 
+                "max": 496.9695, 
+                "average": 553.5425034285715, 
+                "winner": 42, 
+                "median": 539.3886, 
+                "nkt_price": 545.6476, 
+                "pack_num": "\u7b2c\u4e8c\u5305", 
+                "nkt_gm3": 0.026, 
+                "num_company": 7.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 43.42718571428571, 
+                "min": 52.36, 
+                "max": 38.9844, 
+                "average": 43.42718571428571, 
+                "winner": 42, 
+                "median": 42.42, 
+                "nkt_price": 42.42, 
+                "pack_num": "\u7b2c\u4e8c\u5305", 
+                "nkt_gm3": 0.022, 
+                "num_company": 7.0
+            }
+        ], 
+        "sr": "\u5468\u5efa\u56fd", 
+        "company": "\u56fd\u7f51\u9ed1\u9f99\u6c5f\u7535\u529b\u6709\u9650\u516c\u53f8110kv\u7535\u7f06", 
+        "csc": "\u738b\u83ba", 
+        "project": "220\u5343\u4f0f\u5de5\u5927\u53d8\u7535\u624066\u5343\u4f0f\u4e0b\u7ea7\u7535\u7f51\u6574\u7406\u5de5\u7a0b", 
+        "work_num": "NCL-T15-115", 
+        "date": 42326.0
+    }, 
+    {
+        "scoring": " \u3010\u7efc\u5408\u8bc4\u5206\u6cd5\uff1a\u6280\u672f\u5206\u3001\u4ef7\u683c\u5206\u548c\u5546\u52a1\u5206\u5747\u6309\u603b\u5206100\u5206\u8fdb\u884c\u8bc4\u5206\u3002\u6295\u6807\u4eba\u5f97\u5206=\u6280\u672f\u5206*\u6743\u91cd+\u5546\u52a1\u5206*\u6743\u91cd+\u4ef7\u683c\u5206*\u6743\u91cd\n\u8bc4\u6807\u57fa\u51c6\u4ef7=\u6240\u6709\u901a\u8fc7\u6280\u672f\u3001\u5546\u52a1\u8bc4\u5ba1\u7684\u5408\u683c\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u53bb\u6389\u90e8\u5206\u9ad8\u4ef7\u548c\u90e8\u5206\u4f4e\u4ef7\u540e\uff08\u4f46\u4e0d\u5f71\u54cd\u5176\u53c2\u4e0e\u4ef7\u683c\u5206\u8ba1\u7b97\uff09\u7684\u7b97\u672f\u5e73\u5747\u503c\u00d7\uff081+\u6d6e\u52a8\u7cfb\u6570\uff09\uff0c\u6d6e\u52a8\u7cfb\u6570\u4e3a0\u3002\n\u4ef7\u683c\u5f97\u5206=100-100\u00d7n\u00d7|\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7-\u57fa\u51c6\u4ef7|/\u57fa\u51c6\u4ef7\uff08\u56db\u820d\u4e94\u5165\u53d6\u540e\u4e24\u4f4d\uff09\n\u5176\u4e2d\u8ba1\u7b97\u6295\u6807\u62a5\u4ef7\u7684\u57fa\u51c6\u4ef7\u65f6\uff0c\u9700\u8981\u53bb\u9664\u7684\u6295\u6807\u62a5\u4ef7\u60c5\u51b5\u5982\u4e0b\uff1a\n\u5408\u683c\u6295\u6807\u6570\u91cf\u22645\u65f6\uff0c\u76f4\u63a5\u8ba1\u7b97\uff1b\n\u5408\u683c\u6295\u6807\u6570\u91cf=6\u65f6\uff0c\u53bb\u6389\u4e00\u4e2a\u6700\u9ad8\u4ef7\uff1b\n\u5408\u683c\u6295\u6807\u6570\u91cf\u22657\u65f6\uff0c\u53bb\u6389\u4e00\u4e2a\u6700\u9ad8\u4ef7\u3001\u4e00\u4e2a\u6700\u4f4e\u4ef7\u3002\n\u5f53\u8ba1\u7b97\u51fa\u7684\u4ef7\u683c\u90e8\u5206\u5f97\u5206<0\uff0c\u63090\u5206\u8ba1\u3002\n\u5f53\u6295\u6807\u4eba\u7684\u8bc4\u6807\u603b\u4ef7\u2264\u57fa\u51c6\u4ef7\uff0cn=1\u3002\n\u5f53\u6295\u6807\u4eba\u7684\u8bc4\u6807\u603b\u4ef7\uff1e\u57fa\u51c6\u4ef7\uff0cn=2\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 153.0, 
+                "average_no_peak": 161.59553854545456, 
+                "min": 171.0, 
+                "max": 149.39964, 
+                "average": 161.59553854545456, 
+                "winner": "NKT", 
+                "median": 163.8, 
+                "nkt_price": 153.0, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.112, 
+                "num_company": 11.0
+            }
+        ], 
+        "sr": "\u5f20\u5b8f\u519b", 
+        "company": "\u56db\u5ddd\u79d1\u9510\u5f97\u5b9e\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u738b\u83ba", 
+        "project": "\u6210\u84b2\u94c1\u8def110kV\u53ca\u4ee5\u4e0a\u7535\u529b\u7ebf\u8def\u8fc1\u6539\u5de5\u7a0b\u7b2c\u4e94\u6279\u6b21\uff08220kV\u5174\u4faf\u5357\u3001\u5317\u7ebf\u7535\u7f06\u6bb5\uff09220KV\u7535\u7f06\u9644\u4ef6", 
+        "work_num": "NCL-T16-002", 
+        "date": 42396.0
+    }, 
+    {
+        "scoring": " \u8bc4\u6807\u57fa\u51c6\u4ef7\u7684\u8ba1\u7b97\uff08M\u4e3a\u6709\u6548\u6295\u6807\u4eba\u7684\u6570\u91cf\uff09\n 1\uff093\u2264M\u22645\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76843\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b\n 2\uff095<M\u226410\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76844\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b \n 3\uff0910<M\u226415 \n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76845\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n 4\uff09M\uff1e15\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76846\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 493.611595, 
+                "average_no_peak": 521.6733466666666, 
+                "min": 551.892609, 
+                "max": 485.26753, 
+                "average": 521.6733466666666, 
+                "winner": "\u7279\u53d8\u7535\u5de5\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 519.0421934999999, 
+                "nkt_price": 513.0256, 
+                "pack_num": "\u53052", 
+                "nkt_gm3": 0.0206, 
+                "num_company": 12.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "", 
+        "work_num": "NCL-T16-004", 
+        "date": 42395.0
+    }, 
+    {
+        "scoring": " \u8bc4\u6807\u57fa\u51c6\u4ef7\u7684\u8ba1\u7b97\uff08M\u4e3a\u6709\u6548\u6295\u6807\u4eba\u7684\u6570\u91cf\uff09\n 1\uff093\u2264M\u22645\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76843\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b\n 2\uff095<M\u226410\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76844\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b \n 3\uff0910<M\u226415 \n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76845\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n 4\uff09M\uff1e15\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76846\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 412.43994, 
+                "average_no_peak": 446.38657708333335, 
+                "min": 517.6749, 
+                "max": 403.820055, 
+                "average": 446.38657708333335, 
+                "winner": "\u6c5f\u82cf\u534e\u8fdc\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 435.6081775, 
+                "nkt_price": 431.2013, 
+                "pack_num": "\u53053", 
+                "nkt_gm3": 0.0195, 
+                "num_company": 12.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "", 
+        "work_num": "NCL-T16-006", 
+        "date": 42395.0
+    }, 
+    {
+        "scoring": "\u3010\u7efc\u5408\u8bc4\u5206\u6cd5\uff1a\u6280\u672f\u5206\u3001\u4ef7\u683c\u5206\u548c\u5546\u52a1\u5206\u5747\u6309\u603b\u5206100\u5206\u8fdb\u884c\u8bc4\u5206\u3002\u6295\u6807\u4eba\u5f97\u5206=\u6280\u672f\u5206*\u6743\u91cd+\u5546\u52a1\u5206*\u6743\u91cd+\u4ef7\u683c\u5206*\u6743\u91cd\n\u8bc4\u6807\u57fa\u51c6\u4ef7=\u6240\u6709\u901a\u8fc7\u6280\u672f\u3001\u5546\u52a1\u8bc4\u5ba1\u7684\u5408\u683c\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u53bb\u6389\u90e8\u5206\u9ad8\u4ef7\u548c\u90e8\u5206\u4f4e\u4ef7\u540e\uff08\u4f46\u4e0d\u5f71\u54cd\u5176\u53c2\u4e0e\u4ef7\u683c\u5206\u8ba1\u7b97\uff09\u7684\u7b97\u672f\u5e73\u5747\u503c\u00d7\uff081+\u6d6e\u52a8\u7cfb\u6570\uff09\uff0c\u6d6e\u52a8\u7cfb\u6570\u4e3a-2%\u3002\n\u4ef7\u683c\u5f97\u5206=100-100\u00d7n\u00d7|\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7-\u57fa\u51c6\u4ef7|/\u57fa\u51c6\u4ef7\uff08\u56db\u820d\u4e94\u5165\u53d6\u540e\u4e24\u4f4d\uff09\n\u5176\u4e2d\u8ba1\u7b97\u6295\u6807\u62a5\u4ef7\u7684\u57fa\u51c6\u4ef7\u65f6\uff0c\u9700\u8981\u53bb\u9664\u7684\u6295\u6807\u62a5\u4ef7\u60c5\u51b5\u5982\u4e0b\uff1a\n\u5408\u683c\u6295\u6807\u6570\u91cf\u22645\u65f6\uff0c\u76f4\u63a5\u8ba1\u7b97\uff1b\n\u5408\u683c\u6295\u6807\u6570\u91cf=6\u65f6\uff0c\u53bb\u6389\u4e00\u4e2a\u6700\u9ad8\u4ef7\uff1b\n\u5408\u683c\u6295\u6807\u6570\u91cf\u22657\u65f6\uff0c\u53bb\u6389\u4e00\u4e2a\u6700\u9ad8\u4ef7\u3001\u4e00\u4e2a\u6700\u4f4e\u4ef7\u3002\n\u5f53\u8ba1\u7b97\u51fa\u7684\u4ef7\u683c\u90e8\u5206\u5f97\u5206<0\uff0c\u63090\u5206\u8ba1\u3002\n\u5f53\u6295\u6807\u4eba\u7684\u8bc4\u6807\u603b\u4ef7\u2264\u57fa\u51c6\u4ef7\uff0cn=1\u3002\n\u5f53\u6295\u6807\u4eba\u7684\u8bc4\u6807\u603b\u4ef7\uff1e\u57fa\u51c6\u4ef7\uff0cn=2\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 305.67888, 
+                "average_no_peak": 314.60763271428567, 
+                "min": 341.66174, 
+                "max": 283.173415, 
+                "average": 314.60763271428567, 
+                "winner": "\u4ea8\u901a", 
+                "median": 318.62844, 
+                "nkt_price": 321.794, 
+                "pack_num": "\u53051", 
+                "nkt_gm3": 0.033, 
+                "num_company": 7.0
+            }
+        ], 
+        "sr": "\u5f20\u5b8f\u519b", 
+        "company": "\u56db\u5ddd\u79d1\u9510\u5f97\u5b9e\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u738b\u83ba", 
+        "project": "\u671d\u9633\u6e56\u5230\u96c5\u5b89\u94c1\u8def35kV\u53ca\u4ee5\u4e0a\u7535\u529b\u8bbe\u65bd\uff08\u56db\u5ddd\u6bb5\uff09\u8fc1\u6539\u5de5\u7a0b\u7b2c\u4e00\u3001\u4e8c\u6279\u6b21\n\u7535\u529b\u7535\u7f06\u91c7\u8d2d\n", 
+        "work_num": "NCL-T16-010", 
+        "date": 42418.0
+    }, 
+    {
+        "scoring": "\u6700\u4f4e\u8bc4\u6807\u4ef7\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 12791095.075454546, 
+                "min": 14367148.19, 
+                "max": 10910747.61, 
+                "average": 12791095.075454546, 
+                "winner": 42, 
+                "median": 12542112.52, 
+                "nkt_price": 12982187.78, 
+                "pack_num": "\u6807\u6bb52", 
+                "nkt_gm3": 0.0405, 
+                "num_company": 11.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 8478903.688888889, 
+                "min": 9660293.2, 
+                "max": 7723821.0, 
+                "average": 8478903.688888889, 
+                "winner": 42, 
+                "median": 8394194.9, 
+                "nkt_price": 8569304.5, 
+                "pack_num": "\u6807\u6bb53", 
+                "nkt_gm3": 0.0411, 
+                "num_company": 9.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 9870325.008333335, 
+                "min": 11316663.5, 
+                "max": 8860977.3, 
+                "average": 9870325.008333335, 
+                "winner": 42, 
+                "median": 9822239.15, 
+                "nkt_price": 10153904.6, 
+                "pack_num": "\u6807\u6bb56", 
+                "nkt_gm3": 0.0408, 
+                "num_company": 12.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 12570882.307692308, 
+                "min": 14416334.0, 
+                "max": 11578676.0, 
+                "average": 12570882.307692308, 
+                "winner": 42, 
+                "median": 12278756.0, 
+                "nkt_price": 13310796.0, 
+                "pack_num": "\u6807\u6bb57", 
+                "nkt_gm3": 0.0408, 
+                "num_company": 13.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 3149971.3, 
+                "min": 3383260.0, 
+                "max": 2861725.0, 
+                "average": 3149971.3, 
+                "winner": 42, 
+                "median": 3162970.0, 
+                "nkt_price": 3298634.0, 
+                "pack_num": "\u6807\u6bb58", 
+                "nkt_gm3": 0.0404, 
+                "num_company": 10.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 7877903.15, 
+                "min": 8674907.7, 
+                "max": 7366657.3, 
+                "average": 7877903.15, 
+                "winner": 42, 
+                "median": 7643703.85, 
+                "nkt_price": 8647326.2, 
+                "pack_num": "\u6807\u6bb59", 
+                "nkt_gm3": 0.0413, 
+                "num_company": 10.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u56fd\u5bb6\u7535\u529b\u6295\u8d44\u96c6\u56e2\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u56fd\u5bb6\u7535\u529b\u6295\u8d44\u96c6\u56e2\u516c\u53f8\n\u4e8c\u3007\u4e00\u516d\u5e74\u5ea6\u7b2c\u516b\u6279\u96c6\u4e2d\u62db\u6807", 
+        "work_num": "NCL-T16-011", 
+        "date": 42424.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\uff08\u5206\u503c\u8bbe\u5b9a\u4e3a100\u5206\uff0c\u7684\u6743\u91cd\u5982\u4e0b\uff1a\u6280\u672f\u90e8\u5206\u6743\u91cd\u4e3a30%\uff1b\u4ef7\u683c\u90e8\u5206\u6743\u91cd\u4e3a60%\uff1b\u5546\u52a1\u90e8\u5206\u6743\u91cd\u4e3a10%\uff09\u3002\n1\u3001\u57fa\u51c6\u4ef7\u7684\u786e\u5b9a\u529e\u6cd5\uff1a\n\u57fa\u51c6\u4ef7\u4e3a\u6240\u6709\u6295\u6807\u4eba\u7684\u6295\u6807\u62a5\u4ef7\u7b97\u672f\u5e73\u5747\u503c\n\u57fa\u51c6\u8ba1\u7b97\u516c\u5f0f\uff1a\u57fa\u51c6\u4ef7P0=(P1+P2+\u2026\u2026\u2026Pn)/n\n\u5176\u4e2d\uff1aP\u6307\u5404\u6295\u6807\u5355\u4f4d\u7684\u6295\u6807\u62a5\u4ef7\uff1b\n      n\u6307\u5408\u683c\u6295\u6807\u4eba\u7684\u4e2a\u6570.\n2\u3001\u62a5\u4ef7\u5206\u7684\u8ba1\u7b97\u65b9\u6cd5\u4e3a\uff1a\n1\uff09 \u5f53\u6295\u6807\u62a5\u4ef7\u7b49\u4e8e\u57fa\u51c6\u4ef7\u65f6,\u5f97\u57fa\u51c6\u520650\u5206;\n2\uff09\u5f53\u6295\u6807\u62a5\u4ef7\u4f4e\u4e8e\u57fa\u51c6\u4ef7\u65f6,\u6bcf\u4f4e\u51fa1%,\u572850\u5206\u57fa\u51c6\u4e0a\u52a01\u5206\uff0c\u6700\u9ad8\u52a0\u81f360\u5206,\u8ba1\u7b97\u516c\u5f0f\u4e3a:\u62a5\u4ef7\u5f97\u5206(P1)=50+\ufe31P-P0\ufe31/P0\u00d7100\n\u3000  3\uff09\u5f53\u6295\u6807\u62a5\u4ef7\u9ad8\u4e8e\u57fa\u51c6\u4ef7\u65f6,\u6bcf\u9ad8\u51fa1%,\u572850\u5206\u57fa\u51c6\u4e0a\u51cf1\u5206\uff0c\u6700\u4f4e\u51cf\u81f340\u5206,\u8ba1\u7b97\u516c\u5f0f\u4e3a:\u62a5\u4ef7\u5f97\u5206(P1)=50-\ufe31P-P0\ufe31/P0\u00d7150\n4\uff09\u5f53\u6295\u6807\u62a5\u4ef7\u504f\u79bb\u8bc4\u6807\u4ef720%\u65f6\uff0c\u5254\u9664\u8be5\u6295\u6807\u5355\u4f4d\u91cd\u65b0\u8ba1\u7b97\u5e73\u5747\u4ef7\uff0c\u8be5\u5355\u4f4d\u4e0d\u53c2\u4e0e\u7efc\u5408\u6392\u5e8f\u3002.\n\u5f53\uff1a\u901a\u8fc7\u6280\u672f\u3001\u5546\u52a1\u8bc4\u5ba1\u7684\u5408\u683c\u6295\u6807\u4eba\u4e2a\u6570\u5c0f\u4e8e\u7b49\u4e8e5\u5bb6\u65f6\uff0c\n\u57fa\u51c6\u4ef7=\u6240\u6709\u901a\u8fc7\u6280\u672f\u3001\u5546\u52a1\u8bc4\u5ba1\u7684\u5408\u683c\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u52a0\u6743\u5e73\u5747\u503c\u3002\n\u5f53\uff1a\u901a\u8fc7\u6280\u672f\u3001\u5546\u52a1\u8bc4\u5ba1\u7684\u5408\u683c\u6295\u6807\u4eba\u4e2a\u6570\u5927\u4e8e5\u65f6\n\u57fa\u51c6\u4ef7=\u6240\u6709\u901a\u8fc7\u6280\u672f\u3001\u5546\u52a1\u8bc4\u5ba1\u7684\u5408\u683c\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u53bb\u6389\u4e00\u4e2a\u6700\u9ad8\u4ef7\u548c\u4e00\u4e2a\u6700\u4f4e\u4ef7\u7684\u5e73\u5747\u503c\uff1b\n5\uff09\u5f97\u5206\u7cbe\u786e\u5230\u5c0f\u6570\u70b9\u540e\u4e24\u4f4d\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 42, 
+                "average_no_peak": 410.6855034615385, 
+                "min": 434.1119, 
+                "max": 384.845095, 
+                "average": 410.6855034615385, 
+                "winner": 42, 
+                "median": 412.68456, 
+                "nkt_price": 421.833, 
+                "pack_num": "\u6807\u6bb51", 
+                "nkt_gm3": 0.0206, 
+                "num_company": 13.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u6b66\u6c49\u534e\u6e90\u7535\u529b\u96c6\u56e2\u6709\u9650\u516c\u53f8\u7269\u8d44\u5206\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": " \u56fd\u7f51\u534e\u4e2d\u5206\u5e03\u8c03\u5ea6\u697c10KV\u7535\u7f06", 
+        "work_num": "NCL-T16-015", 
+        "date": 42426.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5\uff08\u5206\u503c\u8bbe\u5b9a\u4e3a100\u5206\uff0c\u7684\u6743\u91cd\u5982\u4e0b\uff1a\u6280\u672f\u90e8\u5206\u6743\u91cd\u4e3a30%\uff1b\u4ef7\u683c\u90e8\u5206\u6743\u91cd\u4e3a60%\uff1b\u5546\u52a1\u90e8\u5206\u6743\u91cd\u4e3a10%\uff09\u3002\n1\u3001\u57fa\u51c6\u4ef7\u7684\u786e\u5b9a\u529e\u6cd5\uff1a\n\u57fa\u51c6\u4ef7\u4e3a\u6240\u6709\u6295\u6807\u4eba\u7684\u6295\u6807\u62a5\u4ef7\u7b97\u672f\u5e73\u5747\u503c\n\u57fa\u51c6\u8ba1\u7b97\u516c\u5f0f\uff1a\u57fa\u51c6\u4ef7P0=(P1+P2+\u2026\u2026\u2026Pn)/n\n\u5176\u4e2d\uff1aP\u6307\u5404\u6295\u6807\u5355\u4f4d\u7684\u6295\u6807\u62a5\u4ef7\uff1b\n      n\u6307\u5408\u683c\u6295\u6807\u4eba\u7684\u4e2a\u6570.\n2\u3001\u62a5\u4ef7\u5206\u7684\u8ba1\u7b97\u65b9\u6cd5\u4e3a\uff1a\n1\uff09 \u5f53\u6295\u6807\u62a5\u4ef7\u7b49\u4e8e\u57fa\u51c6\u4ef7\u65f6,\u5f97\u57fa\u51c6\u520650\u5206;\n2\uff09\u5f53\u6295\u6807\u62a5\u4ef7\u4f4e\u4e8e\u57fa\u51c6\u4ef7\u65f6,\u6bcf\u4f4e\u51fa1%,\u572850\u5206\u57fa\u51c6\u4e0a\u52a01\u5206\uff0c\u6700\u9ad8\u52a0\u81f360\u5206,\u8ba1\u7b97\u516c\u5f0f\u4e3a:\u62a5\u4ef7\u5f97\u5206(P1)=50+\ufe31P-P0\ufe31/P0\u00d7100\n\u3000  3\uff09\u5f53\u6295\u6807\u62a5\u4ef7\u9ad8\u4e8e\u57fa\u51c6\u4ef7\u65f6,\u6bcf\u9ad8\u51fa1%,\u572850\u5206\u57fa\u51c6\u4e0a\u51cf1\u5206\uff0c\u6700\u4f4e\u51cf\u81f340\u5206,\u8ba1\u7b97\u516c\u5f0f\u4e3a:\u62a5\u4ef7\u5f97\u5206(P1)=50-\ufe31P-P0\ufe31/P0\u00d7150\n4\uff09\u5f53\u6295\u6807\u62a5\u4ef7\u504f\u79bb\u8bc4\u6807\u4ef720%\u65f6\uff0c\u5254\u9664\u8be5\u6295\u6807\u5355\u4f4d\u91cd\u65b0\u8ba1\u7b97\u5e73\u5747\u4ef7\uff0c\u8be5\u5355\u4f4d\u4e0d\u53c2\u4e0e\u7efc\u5408\u6392\u5e8f\u3002.\n\u5f53\uff1a\u901a\u8fc7\u6280\u672f\u3001\u5546\u52a1\u8bc4\u5ba1\u7684\u5408\u683c\u6295\u6807\u4eba\u4e2a\u6570\u5c0f\u4e8e\u7b49\u4e8e5\u5bb6\u65f6\uff0c\n\u57fa\u51c6\u4ef7=\u6240\u6709\u901a\u8fc7\u6280\u672f\u3001\u5546\u52a1\u8bc4\u5ba1\u7684\u5408\u683c\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u52a0\u6743\u5e73\u5747\u503c\u3002\n\u5f53\uff1a\u901a\u8fc7\u6280\u672f\u3001\u5546\u52a1\u8bc4\u5ba1\u7684\u5408\u683c\u6295\u6807\u4eba\u4e2a\u6570\u5927\u4e8e5\u65f6\n\u57fa\u51c6\u4ef7=\u6240\u6709\u901a\u8fc7\u6280\u672f\u3001\u5546\u52a1\u8bc4\u5ba1\u7684\u5408\u683c\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u53bb\u6389\u4e00\u4e2a\u6700\u9ad8\u4ef7\u548c\u4e00\u4e2a\u6700\u4f4e\u4ef7\u7684\u5e73\u5747\u503c\uff1b\n5\uff09\u5f97\u5206\u7cbe\u786e\u5230\u5c0f\u6570\u70b9\u540e\u4e24\u4f4d\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 264.335, 
+                "average_no_peak": 258.7759309090909, 
+                "min": 274.1744, 
+                "max": 239.59684, 
+                "average": 258.7759309090909, 
+                "winner": "\u6b66\u6c49\u5e02\u9ec4\u9e64\u7535\u7ebf\u7535\u7f06\u4e00\u5382", 
+                "median": 261.5, 
+                "nkt_price": 263.5, 
+                "pack_num": "\u6807\u6bb51", 
+                "nkt_gm3": 0.0617, 
+                "num_company": 11.0
+            }, 
+            {
+                "winner_price": 293.733, 
+                "average_no_peak": 287.09739545454545, 
+                "min": 299.88779, 
+                "max": 265.19357, 
+                "average": 287.09739545454545, 
+                "winner": "\u6b66\u6c49\u6b66\u6e56\u7535\u7f06", 
+                "median": 292.2307, 
+                "nkt_price": 292.2307, 
+                "pack_num": "\u6807\u6bb52", 
+                "nkt_gm3": 0.0612, 
+                "num_company": 11.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u6b66\u6c49\u534e\u6e90\u7535\u529b\u96c6\u56e2\u6709\u9650\u516c\u53f8\u7269\u8d44\u5206\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u6b66\u6c49\u7406\u5de5\u5927\u5b66110kV\u53d8\u7535\u7ad9\u914d\u5957\u5de5\u7a0b", 
+        "work_num": "NCL-T16-016", 
+        "date": 42423.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 683.15, 
+                "average_no_peak": 735.3366666666667, 
+                "min": 771.485, 
+                "max": 683.15, 
+                "average": 735.3366666666667, 
+                "winner": "NKT", 
+                "median": 751.375, 
+                "nkt_price": 683.15, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0946, 
+                "num_company": 3.0
+            }
+        ], 
+        "sr": "\u5468\u5efa\u56fd", 
+        "company": "\u5927\u5e86\u4e2d\u84dd\u77f3\u5316\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5e74\u5ea6\u6846\u67b6", 
+        "work_num": "NCL-T16-017", 
+        "date": 42429.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 683.15, 
+                "average_no_peak": 735.3366666666667, 
+                "min": 771.485, 
+                "max": 683.15, 
+                "average": 735.3366666666667, 
+                "winner": "NKT", 
+                "median": 751.375, 
+                "nkt_price": 683.15, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0946, 
+                "num_company": 3.0
+            }
+        ], 
+        "sr": "\u5468\u5efa\u56fd", 
+        "company": "\u5927\u5e86\u4e2d\u84dd\u77f3\u5316\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5e74\u5ea6\u6846\u67b6", 
+        "work_num": "NCL-T16-017", 
+        "date": 42429.0
+    }, 
+    {
+        "scoring": "\u7efc\u5408\u8bc4\u4f30\u6cd5", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 1467.506, 
+                "average_no_peak": 1586.450807692308, 
+                "min": 1788.7042, 
+                "max": 1467.506, 
+                "average": 1586.450807692308, 
+                "winner": "\u7126\u4f5c\u6c49\u6cb3", 
+                "median": 1527.3844, 
+                "nkt_price": 1714.0466, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0812, 
+                "num_company": 13.0
+            }
+        ], 
+        "sr": "\u5468\u5efa\u56fd", 
+        "company": "\u6c5f\u82cf\u5b81\u4f9b\u96c6\u4f53\u8d44\u4ea7\u8fd0\u8425\u4e2d\u5fc3\u79d1\u8d38\u5206\u4e2d\u5fc3", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5c27\u5316\u95e8-\u7ecf\u6e2f220kv\u94c1\u5317\u8f93\u53d8\u7535\u5de5\u7a0b(\u7535\u529b\u7535\u7f06)\u9879\u76ee", 
+        "work_num": "NCL-T16-018", 
+        "date": 42440.0
+    }, 
+    {
+        "scoring": " \u8bc4\u6807\u57fa\u51c6\u4ef7\u7684\u8ba1\u7b97\uff08M\u4e3a\u6709\u6548\u6295\u6807\u4eba\u7684\u6570\u91cf\uff09\n 1\uff093\u2264M\u22645\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76843\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b\n 2\uff095<M\u226410\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76844\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b \n 3\uff0910<M\u226415 \n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76845\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n 4\uff09M\uff1e15\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76846\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 576.695979, 
+                "average_no_peak": 616.7626112352941, 
+                "min": 651.00828, 
+                "max": 560.457835, 
+                "average": 616.7626112352941, 
+                "winner": "\u8fdc\u7a0b\u7535\u7f06\u80a1\u4efd\u6709\u9650\u516c\u53f8", 
+                "median": 633.2282, 
+                "nkt_price": 644.8689, 
+                "pack_num": "\u53054", 
+                "nkt_gm3": 0.0162, 
+                "num_company": 17.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 616.7626112352941, 
+                "min": 651.00828, 
+                "max": 560.457835, 
+                "average": 616.7626112352941, 
+                "winner": 42, 
+                "median": 633.2282, 
+                "nkt_price": 644.8689, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0, 
+                "num_company": 17.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5927\u5510\u73af\u5883\u603b\u5305-\u5927\u5510\u56fd\u9645\u5f20\u5bb6\u53e3\u53d1\u7535\u53821\uff5e8\u53f7\u673a\u7ec4\u73af\u4fdd\u8bbe\u65bd\u8d85\u4f4e\u6392\u653e\u6539\u9020\u5de5\u7a0b", 
+        "work_num": "NCL-T16-040", 
+        "date": 42500.0
+    }, 
+    {
+        "scoring": " \u8bc4\u6807\u57fa\u51c6\u4ef7\u7684\u8ba1\u7b97\uff08M\u4e3a\u6709\u6548\u6295\u6807\u4eba\u7684\u6570\u91cf\uff09\n 1\uff093\u2264M\u22645\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76843\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b\n 2\uff095<M\u226410\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76844\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\uff1b \n 3\uff0910<M\u226415 \n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76845\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n 4\uff09M\uff1e15\n\u8ba1\u7b97\u8bc4\u6807\u4ef7\u6700\u4f4e\u76846\u4e2a\u6709\u6548\u6295\u6807\u4eba\u7684\u8bc4\u6807\u4ef7\u7684\u7b97\u672f\u5e73\u5747\u503c\uff0c\u8be5\u503c\u4e3a\u8bc4\u6807\u57fa\u51c6\u4ef7\u3002\n", 
+        "is_blank": false, 
+        "packs": [
+            {
+                "winner_price": 1556.5, 
+                "average_no_peak": 1608.658192, 
+                "min": 1675.30332, 
+                "max": 1528.02696, 
+                "average": 1608.658192, 
+                "winner": "\u6c5f\u82cf\u4ea8\u901a\u7535\u529b\u7535\u7f06\u6709\u9650\u516c\u53f8", 
+                "median": 1603.808975, 
+                "nkt_price": 1629.569, 
+                "pack_num": "\u53055", 
+                "nkt_gm3": 0.015, 
+                "num_company": 20.0
+            }, 
+            {
+                "winner_price": 42, 
+                "average_no_peak": 1608.658192, 
+                "min": 1675.30332, 
+                "max": 1528.02696, 
+                "average": 1608.658192, 
+                "winner": 42, 
+                "median": 1603.808975, 
+                "nkt_price": 42, 
+                "pack_num": 0.0, 
+                "nkt_gm3": 0.0, 
+                "num_company": 20.0
+            }
+        ], 
+        "sr": "\u5085\u5f3a", 
+        "company": "\u4e2d\u56fd\u6c34\u5229\u7535\u529b\u7269\u8d44\u96c6\u56e2\u6709\u9650\u516c\u53f8", 
+        "csc": "\u590f\u65b0\u6885", 
+        "project": "\u5927\u5510\u4e09\u95e8\u5ce1\u53d1\u7535\u6709\u9650\u8d23\u4efb\u516c\u53f8\u3001\u4e09\u95e8\u5ce1\u534e\u9633\u53d1\u7535\u6709\u9650\u8d23\u4efb\u516c\u53f8\u3001\u5927\u5e86\u9752\u5c71\u98ce\u7535\u573a\u9879\u76ee\u3001\u5927\u5510\u9c81\u5317\u53d1\u7535\u6709\u9650\u8d23\u4efb\u516c\u53f8\u3001\u56db\u5ddd\u5df4\u4e2d\u901a\u6c5f\u53bf\u6d2a\u53e3\u6c34\u7535\u7ad9\u3001\u5927\u5510\u73af\u5883\u603b\u5305-\u5927\u5510\u516b\u3007\u4e09\u53d1\u7535\u5382\u201c\u4e0a\u5927\u538b\u5c0f\u201d\u70ed\u7535\u8054\u4ea7\u6269\u5efa\u5de5\u7a0b\u3001\u5927\u5510\u5b9a\u8fb9\u6cb9\u623f\u5e84330kv\u8054\u5408\u5347\u538b\u7ad9", 
+        "work_num": "NCL-T16-041", 
+        "date": 42500.0
+    }
+]
